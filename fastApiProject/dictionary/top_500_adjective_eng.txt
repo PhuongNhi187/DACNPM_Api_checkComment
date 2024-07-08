@@ -1,0 +1,534 @@
+Adj	Mean
+different	khác nhau
+used	được sử dụng
+important	quan trọng
+every	mỗi
+large	lớn
+available	có sẵn
+popular	phổ biến
+able	thể
+basic	cơ bản
+known	được biết đến
+various	khác nhau
+difficult	khó khăn
+several	nhiều
+united	thống nhất
+historical	lịch sử
+hot	nóng
+useful	hữu ích
+mental	tinh thần
+scared	sợ hãi
+additional	thêm
+emotional	cảm xúc
+old	cũ
+political	chính trị
+similar	tương tự
+healthy	khỏe mạnh
+financial	tài chính
+medical	y tế
+traditional	truyền thống
+federal	liên bang
+entire	toàn bộ
+strong	mạnh mẽ
+actual	thực tế
+significant	đáng kể
+successful	thành công
+electrical	điện
+expensive	đắt
+pregnant	mang thai
+intelligent	thông minh
+interesting	thú vị
+poor	người nghèo
+happy	hạnh phúc
+responsible	chịu trách nhiệm
+cute	dễ thương
+helpful	hữu ích
+recent	gần đây
+willing	sẵn sàng
+nice	đẹp
+wonderful	tuyệt vời
+impossible	không thể
+serious	nghiêm trọng
+huge	lớn
+rare	hiếm
+technical	kỹ thuật
+typical	điển hình
+competitive	cạnh tranh
+critical	quan trọng
+electronic	điện tử
+immediate	ngay lập tức
+whose	có
+aware	nhận thức
+educational	giáo dục
+environmental	môi trường
+global	toàn cầu
+legal	pháp lý
+relevant	có liên quan
+accurate	chính xác
+capable	có khả năng
+dangerous	nguy hiểm
+dramatic	ấn tượng
+efficient	hiệu quả
+powerful	mạnh mẽ
+foreign	nước ngoài
+hungry	đói
+practical	thực tế
+psychological	tâm lý
+severe	nghiêm trọng
+suitable	phù hợp
+numerous	nhiều
+sufficient	đủ
+unusual	bất thường
+consistent	phù hợp
+cultural	văn hóa
+existing	hiện
+famous	nổi tiếng
+pure	tinh khiết
+afraid	sợ
+obvious	rõ ràng
+careful	cẩn thận
+latter	thứ hai
+obviously	rõ ràng
+unhappy	không hài lòng
+acceptable	chấp nhận được
+aggressive	tích cực
+distinct	biệt
+eastern	đông
+logical	hợp lý
+reasonable	hợp lý
+strict	nghiêm ngặt
+successfully	thành công
+administrative	hành chính
+automatic	tự động
+civil	dân sự
+former	cựu
+massive	lớn
+southern	nam
+unfair	không công bằng
+visible	có thể nhìn thấy
+alive	sống
+angry	tức giận
+desperate	tuyệt vọng
+exciting	thú vị
+friendly	thân thiện
+lucky	may mắn
+realistic	thực tế
+sorry	xin lỗi
+ugly	xấu xí
+unlikely	không
+anxious	lo lắng
+comprehensive	toàn diện
+curious	tò mò
+impressive	ấn tượng
+informal	chính thức
+inner	bên trong
+pleasant	vừa ý
+sexual	tình dục
+sudden	đột ngột
+terrible	khủng khiếp
+unable	không thể
+weak	yếu
+wooden	gỗ
+asleep	ngủ
+confident	tự tin
+conscious	có ý thức
+decent	phong nha
+embarrassed	xấu hổ
+guilty	tội
+lonely	cô đơn
+mad	điên
+nervous	thần kinh
+odd	lẻ
+remarkable	đáng chú ý
+substantial	đáng kể
+suspicious	đáng ngờ
+tall	cao
+tiny	nhỏ
+more	hơn
+some	một số
+one	một
+all	tất cả
+many	nhiều
+most	nhất
+other	khác
+such	như vậy
+even	thậm chí
+new	mới
+just	chỉ
+good	tốt
+any	bất kỳ
+each	mỗi
+much	nhiều
+own	riêng
+great	tuyệt vời
+another	khác
+same	cùng
+few	số
+free	miễn phí
+right	đúng
+still	vẫn
+best	tốt nhất
+public	công cộng
+human	con người
+both	cả hai
+local	địa phương
+sure	chắc chắn
+better	tốt hơn
+general	chung
+specific	cụ thể
+enough	đủ
+long	dài
+small	nhỏ
+less	ít
+high	cao
+certain	nhất định
+little	ít
+common	phổ biến
+next	tiếp theo
+simple	đơn giản
+hard	cứng
+past	qua
+big	lớn
+possible	có thể
+particular	đặc biệt
+real	thực
+major	chính
+personal	cá nhân
+current	hiện tại
+left	còn lại
+national	quốc gia
+least	ít nhất
+natural	tự nhiên
+physical	vật lý
+short	ngắn
+last	cuối cùng
+single	đơn
+individual	cá nhân
+main	chính
+potential	tiềm năng
+professional	chuyên nghiệp
+international	quốc tế
+lower	thấp hơn
+open	mở
+according	theo
+alternative	thay thế
+special	đặc biệt
+working	làm việc
+true	true
+whole	toàn bộ
+clear	rõ ràng
+dry	khô
+easy	dễ dàng
+cold	lạnh
+commercial	thương mại
+full	đầy đủ
+low	thấp
+primary	chính
+worth	giá trị
+necessary	cần thiết
+positive	tích cực
+present	hiện nay
+close	gần
+creative	sáng tạo
+green	màu xanh lá cây
+late	cuối
+fit	phù hợp với
+glad	vui
+proper	thích hợp
+complex	phức tạp
+content	nội dung
+due	do
+effective	hiệu quả
+middle	trung
+regular	thường xuyên
+fast	nhanh chóng
+independent	độc lập
+original	ban đầu
+wide	rộng
+beautiful	đẹp
+complete	hoàn thành
+active	hoạt động
+negative	tiêu cực
+safe	an toàn
+visual	hình ảnh
+wrong	sai
+ago	trước
+quick	nhanh chóng
+ready	sẵn sàng
+straight	thẳng
+white	trắng
+direct	trực tiếp
+excellent	tuyệt vời
+extra	thêm
+junior	cơ sở
+pretty	khá
+unique	độc đáo
+classic	cổ điển
+final	thức
+overall	tổng thể
+private	tin
+separate	riêng
+western	tây
+alone	một mình
+familiar	quen thuộc
+official	chính thức
+perfect	hoàn hảo
+bright	sáng
+broad	rộng
+comfortable	thoải mái
+flat	phẳng
+rich	giàu
+warm	ấm áp
+young	trẻ
+heavy	nặng
+valuable	có giá trị
+correct	chính xác
+leading	hàng đầu
+slow	chậm
+clean	sạch
+fresh	tươi
+normal	bình thường
+secret	bí mật
+tough	khó khăn
+brown	nâu
+cheap	giá rẻ
+deep	sâu
+objective	mục tiêu
+secure	đảm bảo
+thin	mỏng
+chemical	hóa học
+cool	mát mẻ
+extreme	cực
+exact	chính xác
+fair	công bằng
+fine	tốt
+formal	chính thức
+opposite	ngược lại
+remote	từ xa
+total	tổng số
+vast	lớn
+lost	bị mất
+smooth	mịn
+dark	tối
+double	đôi
+equal	bằng
+firm	công ty
+frequent	thường xuyên
+internal	nội bộ
+sensitive	nhạy cảm
+constant	liên tục
+minor	trẻ vị thành niên
+previous	trước
+raw	liệu
+soft	mềm
+solid	rắn
+weird	lạ
+amazing	tuyệt vời
+annual	hàng năm
+busy	bận rộn
+dead	chết
+false	false
+round	vòng
+sharp	sắc nét
+thick	dày
+wise	khôn ngoan
+equivalent	tương đương
+initial	ban đầu
+narrow	hẹp
+nearby	lân cận
+proud	tự hào
+spiritual	tinh thần
+wild	hoang dã
+adult	người lớn
+apart	ngoài
+brief	ngắn gọn
+crazy	điên
+prior	trước
+rough	thô
+sad	buồn
+sick	bệnh
+strange	lạ
+external	bên ngoài
+illegal	bất hợp pháp
+loud	lớn
+mobile	điện thoại di động
+nasty	khó chịu
+ordinary	bình thường
+royal	hoàng gia
+senior	cao cấp
+super	siêu
+tight	chặt chẽ
+upper	trên
+yellow	vàng
+dependent	phụ thuộc
+funny	vui
+gross	tổng
+ill	bệnh
+spare	phụ tùng
+sweet	ngọt ngào
+upstairs	trên lầu
+usual	thông thường
+brave	dũng cảm
+calm	bình tĩnh
+dirty	bẩn
+downtown	trung tâm thành phố
+grand	lớn
+honest	trung thực
+loose	lỏng lẻo
+male	nam
+quiet	yên tĩnh
+brilliant	rực rỡ
+dear	thân yêu
+drunk	say rượu
+empty	rỗng
+female	nữ
+inevitable	không thể tránh khỏi
+neat	gọn gàng
+ok	được
+representative	đại diện
+silly	ngớ ngẩn
+slight	nhẹ
+smart	thông minh
+stupid	ngu ngốc
+temporary	tạm thời
+weekly	hàng tuần
+that	mà
+this	này
+what	những gì
+which	mà
+time	thời gian
+these	các
+work	công việc
+no	không có
+only	chỉ
+first	đầu tiên
+over	hơn
+business	kinh doanh
+his	mình
+game	trò chơi
+think	nghĩ
+after	sau
+life	cuộc sống
+day	ngày
+home	nhà
+economy	nền kinh tế
+away	đi
+either	hoặc
+fat	chất béo
+key	chính
+training	đào tạo
+top	đầu
+level	mức
+far	đến nay
+fun	vui vẻ
+house	nhà
+kind	loại
+future	trong tương lai
+action	hành động
+live	sống
+period	thời gian
+subject	tiêu đề
+mean	có nghĩa là
+stock	chứng khoán
+chance	cơ hội
+beginning	bắt đầu
+upset	khó chịu
+chicken	gà
+head	đầu
+material	tài liệu
+salt	muối
+car	xe
+appropriate	thích hợp
+inside	bên trong
+outside	bên ngoài
+standard	tiêu chuẩn
+medium	trung
+choice	lựa chọn
+north	phía bắc
+square	vuông
+born	ngày sinh
+capital	vốn
+shot	bắn
+front	trước
+living	sống
+plastic	nhựa
+express	thể hiện
+mood	tâm trạng
+feeling	cảm giác
+otherwise	khác
+plus	cộng với
+savings	tiết kiệm
+animal	động vật
+budget	ngân sách
+minute	phút
+character	nhân vật
+maximum	tối đa
+novel	tiểu thuyết
+plenty	nhiều
+select	chọn
+background	nền
+forward	về phía trước
+glass	kính
+joint	doanh
+master	chủ
+red	màu đỏ
+vegetable	rau
+ideal	lý tưởng
+kitchen	nhà bếp
+mother	mẹ
+party	bên
+relative	tương đối
+signal	tín hiệu
+street	đường phố
+connect	kết nối
+minimum	tối thiểu
+sea	biển
+south	nam
+status	tình trạng
+daughter	con gái
+hour	giờ
+trick	lừa
+afternoon	buổi chiều
+gold	vàng
+mission	nhiệm vụ
+agent	đại lý
+corner	góc
+east	đông
+neither	không
+parking	bãi đậu xe
+routine	thường xuyên
+swimming	bơi
+winter	mùa đông
+airline	hãng hàng không
+designer	nhà thiết kế
+dress	váy
+emergency	trường hợp khẩn cấp
+evening	buổi tối
+extension	mở rộng
+holiday	kỳ nghỉ
+horror	kinh dị
+mountain	núi
+patient	bệnh nhân
+proof	bằng chứng
+west	tây
+wine	rượu vang
+expert	chuyên gia
+native	bản địa
+opening	mở
+silver	bạc
+waste	chất thải
+plane	máy bay
+leather	da
+purple	màu tím
+specialist	chuyên gia
+bitter	cay đắng
+incident	sự cố
+motor	động cơ
+pretend	giả vờ
+prize	giải thưởng
+resident	cư dân
+ship	phí vận chuyển
+shipper	người giao hàng
+like	thích
+voucher	phiếu giảm giá
+shope	shopee

@@ -1,0 +1,3924 @@
+incorrect	correct
+chuyen di chuyen lai	chuyển đi chuyển lại
+hang chinh hang	hàng chính hãng
+giaohangnhanh	giao hàng nhanh
+chuyen nghiep	chuyên nghiệp
+the tinh dung	thẻ tín dụng
+kiẻm tra hang	kiểm tra hàng
+kiem tra hang	kiểm tra hàng
+huy don hang	hủy đơn hàng
+cảm ơn nhieu	cảm ơn nhiều
+nghiêm chinh	nghiêm chỉnh
+nghiem chinh	nghiem chỉnh
+nhân vien gh	nhân viên giao hàng
+nhan vien gh	nhân viên giao hàng
+cho xem hang	cho xem hàng
+khonglaisuat	không lãi suất
+khongmuahang	không mua hàng
+hang di giao	hàng đi giao
+gia sản phẩm	giá sản phẩm
+nhanh chong	nhanh chóng
+ma giam gia	mã giảm giá
+nhu cái lôn	như cái lồn
+nhu con cac	như con cặc
+trai nghiêm	trải nghiệm
+bìnhvthường	bình thường
+vậnchuyeern	vận chuyển
+đitconmemay	địt con mẹ mày
+địtconmẹmầy	địt con mẹ mày
+chidaisendo	chị đại sendo
+rattuietvoi	rất tuyệt vời
+tuong thích	tương thích
+quảng caocl	quảng cáo
+chat luong	chất lượng
+khach hang	khách hàng
+giai quyet	giải quyết
+khach hàng	khách hàng
+khuyen mai	khuyến mãi
+van chuyen	vận chuyển
+đien thoại	điện thoại
+điẹn thoại	điện thoại
+diện thoại	điện thoại
+chat lượng	chất lượng
+cung nhieu	cũng nhiều
+chật lượng	chất lượng
+diên thoại	điện thoại
+van chuyển	vận chuyển
+chinh hang	chính hãng
+that la te	thật là tệ
+binhthuong	bình thường
+bìnhthuong	bình thường
+chấtbluong	chất lượng
+chuyenvdoi	chuyển đổi
+chuẩnnhưng	chuẩn nhưng
+chưavdungf	chưa đúng
+cổngonline	cổng trực tuyến
+giaobthiếu	giao thiếu
+nguoinkhac	người khác
+nhanhchong	nhanh chóng
+thivtruong	thị trường
+ứngdụngrất	ứng dụng rất
+tinhnguyen	tình nguyện
+trainghiem	trải nghiệm
+quatienloi	quá tiện lợi
+thoavthich	thỏa thích
+ungdungtot	ứng dụng tốt
+mac qua di	mắc quá đi
+chát lượng	chất lượng
+uqngs dung	ứng dụng
+quảng caoa	quảng cáo
+thất vọnga	thất vọng
+hang chuẩn	hàng chuẩn
+tuyet voi	tuyệt vời
+quang cao	quảng cáo
+rat thich	rất thích
+giao dich	giao dịch
+tin tuong	tin tưởng
+giao hang	giao hàng
+quang cáo	quảng cáo
+that vong	thất vọng
+đeo thích	đéo thích
+đeo thich	đéo thích
+deo thich	đéo thích
+can thiet	cần thiết
+dang nhap	đăng nhập
+quãng cáo	quảng cáo
+thong tin	thông tin
+quyen loi	quyền lợi
+quyen loj	quyền lợi
+nhan vien	nhân viên
+tiep theo	tiếp theo
+cải thiên	cải thiện
+xung dang	xứng đáng
+cung tien	cũng tiện
+nhanh hon	nhanh hơn
+chưng bày	trưng bày
+ngân hành	ngân hàng
+thiện trí	thiện chí
+đàn hoàng	đàng hoàng
+kiểm hang	kiểm hàng
+thong bao	thông báo
+kiem hang	kiểm hàng
+rất la te	rất là tệ
+rát thích	rất thích
+chuyểnđổi	chuyển đổi
+chuẩnluôn	chuẩn luôn
+chấtlượng	chất lượng
+khuyenmai	khuyến mãi
+khuyệnmai	khuyến mãi
+kháchhàng	khách hàng
+khôngbiết	không biết
+khôngnhắn	không nhắn
+khôngđúng	không đúng
+khôngđăng	không đăng
+nguyênzin	nguyên zin
+nhieuquas	nhiều quá
+nhuconcac	như con cặc
+thuậntien	thuận tiện
+vậnchuyen	vận chuyển
+đienthoai	điện thoại
+chatluong	chất lượng
+chăngbiết	chẳng biết
+dụngtuyệt	dụng tuyệt
+hàngnhanh	hàng nhanh
+khongthay	không thấy
+lượnghàng	lượng hàng
+nguoicban	người bán
+tieuchuan	tiêu chuẩn
+chuanbmuc	chuẩn mực
+duyendang	duyên dáng
+ratvtuyet	rất tuyệt
+tinhnnang	tính năng
+tiyetnvoi	tuyệt vời
+tiêudungf	tiêu dùng
+tuyệttftt	tuyệt
+tốntieefn	tốn tiền
+khó triệu	khó chịu
+thực hiẹn	thực hiện
+tien dung	tiện dụng
+phien ban	phiên bản
+cai thien	cải thiện
+ưnga dụng	ứng dụng
+coảng cáo	quảng cáo
+cuảng cáo	quảng cáo
+qurng cáo	quảng cáo
+quảng cai	quảng cáo
+quảng cao	quảng cáo
+quảng cào	quảng cáo
+quảng cái	quảng cáo
+quảng cáp	quảng cáo
+quảng cáu	quảng cáo
+quảng câo	quảng cáo
+quảng cảo	quảng cáo
+quảng váo	quảng cáo
+thất vộng	thất vọng
+đơmn giản	đơn giản
+ứmng dụng	ứng dụng
+ưbgs dụng	ứng dụng
+hong kong	hồng kông
+ướng dụng	ứng dụng
+đàng hoàn	đàng hoàng
+ung dung	ứng dụng
+dat hang	đặt hàng
+lua chon	lựa chọn
+ban hang	bạn hàng
+san pham	sản phẩm
+rat thit	rất thích
+cham soc	chăm sóc
+sản phầm	sản phẩm
+phầm mềm	phần mềm
+phan mem	phần mềm
+quản cáo	quảng cáo
+phan hôi	phản hồi
+úng dụng	ứng dụng
+mua hang	mua hàng
+giam gia	giảm giá
+chan qua	chán quá
+lien ket	liên kết
+tuc chet	tức chết
+quãn cáo	quảng cáo
+cặp nhất	cập nhật
+đặc hàng	đặt hàng
+cuc phan	cục phân
+quan cao	quan cáo
+ton tien	tốn tiền
+giất ngủ	giấc ngủ
+hên xuôi	hên xui
+hai lòng	hài lòng
+phan hoi	phản hồi
+ung dụng	ứng dụng
+cung cap	cung cấp
+tang gia	tăng giá
+cham hon	chậm hơn
+tín năng	tính năng
+tien ích	tiện ích
+phan hồi	phản hồi
+thap hon	thấp hơn
+tien hon	tiện hơn
+cung dep	cũng đẹp
+ứng dung	ứng dụng
+cung nhu	cũng như
+tiep tuc	tiếp tục
+hai long	hài lòng
+rút cuộc	rốt cuộc
+tu nhien	tự nhiên
+tiên ích	tiện ích
+tam thoi	tạm thời
+tien lam	tiện lắm
+ngon lam	ngon lắm
+tiep tục	tiếp tục
+bất tien	bất tiện
+tien loi	tiện lợi
+đơn hang	đơn hàng
+don hang	đơn hàng
+kiem tra	kiểm tra
+nhu minh	như mình
+mat cong	mất công
+đon hang	đơn hàng
+hang hoa	hàng hóa
+canh bao	cảnh báo
+cua hang	cửa hàng
+cam thay	cảm thấy
+buc minh	bực mình
+chuabiet	chưa biết
+chuahieu	chưa hiểu
+cóthgian	có thời gian
+cũngtamj	cũng tạm
+cũngtiện	cũng tiện
+cảmnthấy	cảm thấy
+dethuong	dễ thương
+giaohàng	giao hàng
+hàngchất	hàng chất
+hàngđược	hàng được
+khiệunai	khiếu nại
+khongcho	không cho
+khongtot	không tốt
+làlừađảo	là lừa đảo
+mấythằng	mấy thằng
+ngườimua	người mua
+nhânviên	nhân viên
+quảngcáo	quảng cáo
+ratthich	rất thích
+rấtnhanh	rất nhanh
+rấtnhiều	rất nhiều
+rấtthích	rất thích
+rấttuyet	rất tuyệt
+saokhông	sao không
+sinhnhat	sinh nhật
+thuậnlợi	thuận lợi
+thíchapp	thích app
+thíchcác	thích các
+thíchmua	thích mua
+thôngbáo	thông báo
+thấtvong	thất vọng
+thểtránh	thể tránh
+thờigian	thời gian
+tinquảng	tin quảng
+tiệndung	tiện dụng
+tiệnnlơi	tiện lợi
+trướckhi	trước khi
+tuyênvoi	tuyệt vời
+tuyệttyy	tuyệt
+tuyệtvoi	tuyệt vời
+tuyệtvơi	tuyệt vời
+tuyệtvời	tuyệt vời
+tôiquyết	tôi quyết
+tùyngười	tùy người
+tốtnhưng	tốt nhưng
+vàonhưng	vào nhưng
+xấunhưng	xấu nhưng
+đmshopee	địt mẹ shopee
+đúnghàng	đúng hàng
+đượcnhưg	được nhưng
+zựtcôhôn	zựt cô hồn
+thanhhóa	thanh hóa
+thongtin	thông tin
+thêmđiều	thêm điều
+thìkhoản	thì khoản
+thôithôi	thôi thôi
+thấygian	thấy gian
+ứngdungj	ứng dụng
+tuyenvoi	tuyệt vời
+tuyetvoi	tuyệt vời
+tuyetzoi	tuyệt vời
+ratchuan	rất chuẩn
+ungvdung	ứng dụng
+tudangky	tự đăng ký
+tuoisang	tươi sáng
+tthuaanj	thuận
+trongkhi	trong khi
+trangjav	trang jav
+trangsex	trang sex
+cungduoc	cũng được
+dangnhap	đăng nhập
+ditconme	địt con mẹ
+ditcumay	địt cụ mày
+ditmemay	địt mẹ mày
+dittmmee	địt mẹ
+hàinlong	hài lòng
+khonghay	không hay
+moinguoi	mọi người
+muoonmua	muốn mua
+nguoiyeu	người yêu
+nhungbma	nhưng mà
+okrattot	ok rất tốt
+ratctien	rất tiện
+râtthich	rất thích
+saokovao	sao không vào
+sửndungj	sử dụng
+tiendung	tiện dụng
+tietkiem	tiết kiệm
+timbkiem	tìm kiếm
+toithich	tôi thích
+totchuan	tốt chuẩn
+sát minh	xác minh
+huu hieu	hữu hiệu
+huu dung	hữu dụng
+huu ichh	hữu ích
+ung dumg	ứng dụng
+tien dug	tiện dụng
+thiet bi	thiết bị
+hưu hieu	hữu hiệu
+hưu dung	hưu dung
+hưu ichh	hữu ích
+tich cuc	tích cực
+tieu cuc	tiêu cực
+tien ich	tiện ích
+suy nghi	suy nghĩ
+ứbg dụng	ứng dụng
+huu inch	hữu ích
+ừng dụng	ứng dụng
+ững dụng	ứng dụng
+bất mãng	bất mãn
+bất mảng	bất mãn
+hoàn hão	hoàn hảo
+hửu dụng	hữu dụng
+hữa dụng	hữu dụng
+nhậy cảm	nhạy cảm
+đon giản	đơn giản
+đơn giãn	đơn giản
+ựng dụng	ứng dụng
+don giản	đơn giản
+teencode	tin cốt
+highland	hai lừn
+điiiiiii	đi
+u hai ba	u23
+muon hủy	muốn hủy
+quan cáo	quảng cáo
+tréo mảy	treo máy
+lazzada	lazada
+feeship	free ship
+youtobe	youtube
+sphopee	shopee
+shipber	shipper
+shopbee	shopee
+shooppe	shopee
+lazadaa	lazada
+shopeee	shopee
+iphonee	iphone
+trading	trading
+shoppee	shopee
+tại sau	tại sao
+da dang	đa dạng
+hap dan	hấp dẫn
+de dang	dễ dàng
+dia chi	địa chỉ
+bao dam	bảo đảm
+doi tra	dối trá
+lua đao	lừa đảo
+phuc vu	phục vụ
+ket noi	kết nối
+ung dug	ứng dụng
+shoopee	shopee
+mua sam	mua sắm
+tan noi	tận nơi
+mog mõi	mong mỏi
+shop ee	shopee
+lưa đao	lừa đảo
+lua dao	lừa đảo
+tao lao	tào lao
+su dung	sử dụng
+tao lau	tao lao
+tau lau	tao lao
+hay đay	hay đấy
+uy tính	uy tín
+dang ky	đăng ký
+met moi	mệt mỏi
+doi khi	đôi khi
+bien di	biến đi
+mổi mòn	mỏi mòn
+thất ra	thật ra
+bân rôn	bận rộn
+mắt mệt	mắc mệt
+tốt hon	tốt hơn
+mac hon	mắc hơn
+quy tín	uy tín
+con cat	con cặc
+công ti	công ty
+rõ rành	rõ ràng
+qui tín	uy tín
+nhu cuc	như cức
+cung ok	cũng ok
+qua lâu	quá lây
+huu ích	hữu ích
+nhu lol	như lồn
+bất xúc	bức xúc
+cuc sac	cục sạc
+te that	tệ thật
+uy tinh	uy tín
+thuc te	thực tế
+thay rẻ	thấy rẻ
+kinh te	kinh tế
+tinh te	tinh tế
+tin cay	tin cậy
+that su	thật sự
+lien he	liên hệ
+rắt rối	rắc rối
+ai biet	ai biết
+ai biét	ai biết
+ai biêt	ai biết
+rấttiện	rất tiện
+ratxtot	rất tốt
+ratthik	rất thích
+rấtbhay	rất hay
+xuâtsac	xuất sắc
+xamloll	xàm lồn
+huu ich	hữu ích
+huu ivh	hữu ích
+hưu ich	hữu ích
+hưu ivh	hữu ích
+gia soc	giá sốc
+yen tam	yên tâm
+ứngdung	ứng dụng
+ứngdụng	ứng dụng
+appmượt	app mượt
+p triển	phát triển
+xhopbee	shopee
+vùalòng	vừa lòng
+vọngtôi	vọng tôi
+vọngkhi	vọng khi
+trugtâm	trung tâm
+tốcvcáo	tố cáo
+cong ty	công ty
+hữ dụng	hữu dụng
+tốtnhất	tốt nhất
+am binh	âm binh
+ừn dụng	ứng dụng
+ức dụng	ứng dụng
+bthường	bình thường
+dthương	dễ thương
+nhiềuuu	nhiều
+bthuong	bình thường
+ấn dụng	ứng dụng
+hang rẻ	hàng rẻ
+zalada	lazada
+thichs	thích
+ladaza	lazada
+shoppy	shopee
+lazađa	lazada
+lazala	lazada
+ctrinh	chương trình
+lazara	lazada
+larada	lazada
+soppee	shopee
+quoảng	quảng
+phopee	shopee
+nchung	nói chung
+lâzada	lazada
+lasada	lazada
+coment	comment
+thgian	thời gian
+lazâda	lazada
+lazaza	lazada
+nhueng	nhưng
+shendo	sendo
+ngkhac	người khác
+thíchh	thích
+shiper	shipper
+shoppi	shopee
+như cc	như con cặc
+tp hcm	thành phố hồ chí minh
+vocher	voucher
+shoppe	shopee
+vo van	vớ vẩn
+ug dug	ứng dụng
+shoope	shopee
+khongg	không
+chuyễn	chuyển
+bị lưa	bị lừa
+lam an	làm ăn
+bo het	bỏ hết
+cat co	cắt cổ
+ep gia	ép giá
+sen do	sendo
+sen đỏ	sendo
+dit me	địt mẹ
+uc chế	ức chế
+re hon	rẻ hơn
+cam on	cảm ơn
+ủy tín	uy tín
+nhu cc	như con cặc
+tha ho	tha hồ
+hop ly	hợp lý
+uy tin	uy tín
+rat te	rất tệ
+rất te	rất tệ
+qua te	quá tệ
+te hai	tệ hại
+toi te	tồi tệ
+bo lao	bố láo
+quá te	quá tệ
+te lắm	tệ lắm
+thu vi	thú vị
+Khoonh	không
+hữu ít	hữu ích
+khiong	không
+ai bit	ai biết
+ai biê	ai biết
+shpoee	shopee
+co the	có thể
+tkhoan	tài khoản
+chủaan	chuẩn
+zaxada	lazada
+ngonvl	ngon vãi lồn
+ráttot	rất tốt
+ratoke	rất được
+rathay	rất hay
+yeucau	yêu cầu
+yêntam	yên tâm
+xhopee	shopee
+xamloz	xàm lồn
+xamlon	xàm lồn
+huu it	hữu ích
+hưu it	hưu ích
+ưu dai	uư đãi
+uu dai	ưu đãi
+uu đai	ưu đãi
+toi uu	tối ưu
+van de	vấn đề
+huu ic	hữu ích
+vnpots	vnpost
+vnpost	vnpost
+tuyett	tuyệt
+tuyêtn	tuyệt
+tuyêtk	tuyệt
+tuyêtj	tuyệt
+tuyetj	tuyệt
+tuyêtf	tuyệt
+tuyeta	tuyệt
+yêucầu	yêu cầu
+xinloi	xin lỗi
+xemxet	xem xét
+tuicòn	tui còn
+ttuyệt	tuyệt
+tthuận	thuận
+tthông	thông
+tốtcho	tốt cho
+muasắm	mua sắm
+sohpee	shopee
+soopee	shopee
+cam ơn	cám ơn
+chuđáo	chu đáo
+ung ho	ủng hộ
+đỵt cụ	địt cụ
+thuơng	thương
+hjxhjx	hix hix
+bnhiêu	bao nhiêu
+ngkhác	người khác
+đthoại	điện thoại
+qtrọng	quan trọng
+đhbkhn	đại học bách khoa hà nội
+đhkhtn	đại học khoa học tự nhiên
+đthoai	điện thoại
+ctrình	chương trình
+cũng z	cũng vậy
+my fen	my friend
+on lai	online
+nghành	ngành
+concac	con cặc
+ưu tín	uy tín
+đặc đồ	đặt đồ
+phi rẻ	phí rẻ
+cunhx	cũng
+cguan	chuẩn
+sopee	shopee
+tgian	thời gian
+thick	thích
+rrats	rất
+shoop	shop
+soppe	shopee
+thahk	thank
+lâzda	lazada
+thich	thích
+lzada	lazada
+shopi	shopee
+trloi	trả lời
+rieng	riêng
+chẵng	chẳng
+nhjeu	nhiều
+duyet	duyệt
+sphẩm	sản phẩm
+nhièu	nhiều
+chưởi	chửi
+nhưnh	nhưng
+bnhiu	bao nhiêu
+iphon	iphone
+thjch	thích
+onlne	online
+sdung	sử dụng
+shppe	shopee
+chách	trách
+arpay	airpay
+soppy	shopee
+ngiệm	nghiệm
+tưỡng	tưởng
+khônh	không
+shopy	shopee
+thườg	thường
+nvien	nhân viên
+goole	google
+ditme	địt mẹ
+ngiem	nghiêm
+nhưbg	nhưng
+chyển	chuyển
+cũngg	cũng
+nhứng	nhưng
+truoc	trước
+delay	hoãn
+tphcm	thành phố hồ chí minh
+shope	shopee
+làada	lazada
+shpee	shopee
+tuyêt	tuyệt
+khong	không
+spham	sản phẩm
+nhìuk	nhiều
+chiệu	chịu
+tuyet	tuyệt
+biett	biết
+shopp	shop
+cx dc	cũng được
+popup	pop up
+senđỏ	sendo
+chuan	chuẩn
+senđo	sendo
+lazda	lazada
+sử lí	xử lý
+ơ đây	ở đây
+gop y	góp ý
+coppy	copy
+ngòai	ngoài
+soppi	shopee
+du me	đụ mẹ
+di me	đĩ mẹ
+đu mẹ	đụ mẹ
+q cáo	quảng cáo
+vua y	vừa ý
+sử lý	xử lý
+haoif	hoài
+thươg	thương
+ngyêu	người yêu
+cugok	cũng được
+ratte	rất tệ
+ratot	rất tốt
+tạmđc	tạm được
+sướnq	sướng
+nhiue	nhiều
+ứdụng	ứng dụng
+buồii	buồi
+zthôi	vậy thôi
+zthoi	vậy thôi
+xưỡng	xưởng
+wuảng	quảng
+voeis	với
+voeif	với
+vnpos	vnpost
+apmin	admin
+ýthức	ý thức
+vthôi	vậy thôi
+việcc	việc
+vềchi	về chi
+vềbên	về bên
+tụyêt	tuyệt
+tuỵet	tuyệt
+tuyẹt	tuyệt
+tửong	tưởng
+ttrên	trên
+ttoàn	toàn
+ttiện	tiện
+tthất	thất
+trướk	trước
+goodd	good
+ngừoi	người
+raats	rất
+quịch	quỵt
+quỵch	quỵt
+tượmg	tượng
+nhữnc	những
+nhữnh	những
+giaob	giao
+giaov	giao
+ctrai	con trai
+trườg	trường
+sviên	sinh viên
+atrai	anh trai
+btrai	bạn trai
+lquan	liên quan
+ntnao	như thế nào
+lquen	làm quen
+gđình	gia đinh
+csống	cuộc sống
+csong	cuộc sống
+nkưng	nhưng
+khoảg	khoảng
+cviec	công việc
+hajzz	hai
+đkiện	điều kiện
+đcsvn	đảng cộng sản việt nam
+ltinh	linh tinh
+ngyeu	người yêu
+snghĩ	suy nghĩ
+hphúc	hạnh phúc
+thíck	thích
+chuện	chuyện
+ntnày	như thế này
+ctraj	con trai
+hixxx	hích
+thôii	thôi
+hđộng	hành động
+nguoi	người
+ơiiii	ơi
+trieu	triệu
+hahah	ha ha
+insta	instagram
+troai	trai
+nguời	người
+ngta	người ta
+thik	thích
+dell	đéo
+lozz	lồn
+trog	trong
+ktra	kiểm tra
+thjk	thích
+duok	được
+nhah	nhanh
+đell	đéo
+tmđt	thương mại điện tử
+hnay	hôm nay
+mjnh	mình
+ghtk	giao hàng tiết kiệm
+nhữg	những
+mpvc	miễn phí vận chuyển
+tmdt	thương mại điện tử
+gjao	giao
+cmnd	chứng minh nhân dân
+tháy	thấy
+shjp	ship
+nhju	nhiều
+nhưq	nhưng
+thah	thanh
+trag	trang
+mink	mình
+kiti	tiki
+thôg	thông
+luog	luong
+khog	không
+bjet	biết
+chẳg	chẳng
+thíc	thích
+quảg	quảng
+giốg	giống
+thag	thang
+thoy	thôi
+thix	thích
+clmm	cái lồn mẹ mày
+riếc	riết
+bgio	bao giờ
+chìu	chiều
+sihp	ship
+bâyh	bây giờ
+phãi	phải
+kiễm	kiểm
+giog	giống
+tưởg	tưởng
+trug	trung
+hànq	hàng
+thàh	thành
+quag	quang
+thog	thong
+tjen	tien
+chữi	chửi
+qcao	quảng cáo
+thík	thích
+xomg	xong
+đcmm	địt con mẹ mày
+đvvc	đơn vị vận chuyển
+cskh	chăm sóc khách hàng
+ngin	nghìn
+thíu	thiếu
+ngìn	nghìn
+nhặp	nhập
+kmai	khuyến mãi
+tjnh	tinh
+nghj	nghi
+dcmm	địt con mẹ mày
+clmn	cái lồn mẹ nó
+cmnr	con mẹ nó rồi
+giởm	dỏm
+bthg	bình thường
+hjnh	hinh
+emil	email
+quás	quá
+nhìu	nhiều
+nhiu	nhiêu
+thic	thích
+đươc	được
+sedo	sendo
+lồnz	lồn
+lượg	lượng
+kứng	cứng
+hayy	hay
+lagg	lag
+thág	tháng
+duoc	được
+nhug	nhưng
+nhưg	nhưng
+o ke	ok
+laza	lazada
+hông	không
+đuoc	được
+shíp	ship
+chúg	chúng
+chug	chung
+giup	giúp
+đuọc	được
+tuii	tui
+giãm	giảm
+huux	hữu
+chiu	chịu
+đuợc	được
+khôg	không
+ghet	ghét
+điểu	đểu
+thít	thích
+monh	mong
+hoăc	hoặc
+riet	riết
+tren	trên
+khôq	không
+chẳn	chẳng
+okok	ok
+tièn	tiền
+rấtt	rất
+giất	rất
+trậm	chậm
+okii	ok
+duma	đụ má
+shio	ship
+nhưn	nhưng
+niếu	nếu
+ckua	chưa
+okey	ok
+piết	biết
+xuốg	xuống
+nhều	nhiều
+râtd	rất
+tiẹn	tiện
+dụnh	dụng
+ô kê	ok
+quãg	quảng
+jong	giống
+vaiz	vãi
+napj	nạp
+rácc	rác
+râst	rất
+buầi	buồi
+buồu	buồi
+zuii	vui
+zọng	giọng
+zống	giống
+zòng	dòng
+zóng	giống
+yyêu	yêu
+xuốq	xuống
+xưởg	xưởng
+xuơg	xương
+xuồg	xuồng
+xhop	shop
+wtam	quan tâm
+wjfj	wifi
+wjfi	wifi
+vnxk	việt nam xuất khấu
+ytâm	yên tâm
+ycầu	yêu cầu
+yêuu	yêu
+wánh	quánh
+vờii	vời
+vớii	với
+vơig	vời
+vơia	với
+vídụ	ví dụ
+vậyy	vậy
+vâyk	vậy
+vâyj	vậy
+vâyh	vậy
+vânx	vẫn
+ứung	ứng
+tyệt	tuyệt
+tưởq	tưởng
+ttới	tới
+ttôi	tôi
+ttoi	toi
+tthứ	thứ
+trùg	trùng
+tôtd	tốt
+sohp	shop
+râts	rất
+shóp	shop
+phaj	phai
+rats	rất
+thằg	thằng
+thẳg	thẳng
+thẳn	thẳng
+trắg	trắng
+tưởn	tưởng
+đúmg	đúng
+đúnh	đúng
+nhữn	những
+cgai	con gái
+svtn	sinh viên tình nguyện
+qtam	quan tâm
+qtâm	quan tâm
+atsm	ảo tưởng sức mạnh
+keke	ce ce
+cgái	con gái
+nthe	như thế
+phòg	phòng
+thuj	thôi
+nvay	như vậy
+lmht	liên minh huyền thoại
+đzai	đẹp trai
+nthê	như thế
+hìhì	hì hì
+hihe	hi he
+tcảm	tình cảm
+ksao	không sao
+cmày	chúng mày
+tiếg	tiếng
+hajz	hai
+ngke	nghe
+dzậy	dậy
+tnào	thế nào
+phog	phong
+trọg	trọng
+nthế	như thế
+ngđó	người đó
+riêg	riêng
+ngag	ngang
+hêhê	hê hê
+ngốk	ngốc
+kqua	kết quả
+htrc	hôm trước
+buôg	buông
+chàg	chàng
+chăg	chăng
+ngàh	ngành
+llac	liên lạc
+ngđo	người đó
+tyêu	tình yêu
+snvv	sinh nhật vui vẻ
+tượg	tượng
+thjc	thích
+cđời	cuộc đời
+xloi	xin lỗi
+nvậy	như vậy
+tlai	tương lai
+chta	chúng ta
+hiha	hi ha
+wtâm	quan tâm
+ngía	nghía
+nyêu	người yêu
+rồii	rồi
+mìnk	mình
+đjên	điên
+bgái	bạn gái
+xink	xinh
+đhọc	đại học
+nógn	nóng
+ctác	công tác
+nhaa	nha
+ơiii	ơi
+ngèo	nghèo
+baoh	bao giờ
+vchg	vãi chưởng
+face	facebook
+hjhj	hi hi
+bsvv	buổi sáng vui vẻ
+z là	vậy là
+đtqg	đội tuyển quốc gia
+hqua	hôm qua
+nhoé	nhé
+biet	biết
+nvqs	nghĩa vụ quân sự
+biêt	biết
+tgdd	thế giới di động
+thpt	trung học phổ thông
+thým	thím
+cmnl	con mẹ nó luôn
+ctkm	chương trình khuyến mãi
+sip	ship
+đkm	địt con mẹ
+đcm	địt con mẹ
+sop	shop
+sdt	số điện thoại
+cug	cũng
+síp	ship
+neu	nếu
+hok	không
+cũg	cũng
+cty	công ty
+cmt	comment
+xog	xong
+đag	đang
+bit	biết
+mih	mình
+mog	mong
+nhg	nhưng
+mjh	mình
+loz	lồn
+dag	đang
+mjk	mình
+bik	biết
+đăg	đăng
+đúg	đúng
+dụg	dụng
+vcl	vờ cờ lờ
+mìh	mình
+qúa	quá
+cmm	con mẹ mày
+cmn	con mẹ nó
+pit	biết
+pải	phải
+khj	khi
+dkm	địt con mẹ
+thỳ	thì
+nge	nghe
+hàq	hàng
+dùg	dùng
+zậy	vậy
+ghn	giao hàng nhanh
+dcm	địt con mẹ
+ngt	người ta
+lzd	lazada
+càg	càng
+cko	cho
+chx	chưa
+hỉu	hiểu
+ncc	như con cặc
+mìk	mình
+nta	người ta
+đhs	đéo hiểu sao
+bjt	bit
+wep	web
+mng	mọi người
+ace	anh chị em
+đaq	đang
+fải	phải
+hàg	hàng
+jao	giao
+aap	app
+hsy	hay
+bth	bình thường
+gét	ghét
+sóp	shop
+đừg	đừng
+bằg	bằng
+vkl	vãi cả lồn
+gja	gia
+pik	biết
+bjk	biết
+mịa	mẹ
+kug	cũng
+del	đéo
+tíh	tính
+cùg	cùng
+hog	hông
+luk	lúc
+taj	tai
+zui	vui
+kog	không
+tks	thanks
+chj	chi
+đmm	địt mẹ mày
+đky	đăng ký
+déo	đéo
+trk	trước
+trl	trả lời
+thk	thanks
+tãi	tải
+sag	sang
+laj	lai
+tih	tinh
+nsx	nhà sản xuất
+đki	đăng ký
+côg	công
+gjo	gio
+dmm	địt mẹ mày
+tăg	tăng
+đão	đảo
+ngĩ	nghĩ
+lsf	là
+đăq	đăng
+cũq	cũng
+đjt	địt
+đel	đéo
+nhx	nhưng
+cjo	cho
+cuq	cũng
+cũn	cũng
+phj	phi
+từg	từng
+tjn	tin
+ukm	ừm
+đứg	đứng
+cũa	của
+toj	toi
+cag	cang
+đáh	đánh
+dky	đăng ký
+hsd	hạn sử dụng
+ytb	youtube
+moj	moi
+gìơ	giờ
+hứq	hứng
+nek	nè
+đág	đáng
+vọg	vọng
+wen	quen
+sui	xui
+mạg	mạng
+sml	sấp mặt lờ
+nặg	nặng
+stk	số tài khoản
+kái	cái
+hôg	không
+năg	năng
+huỹ	hủy
+dvu	dịch vụ
+đúq	đúng
+lữa	nữa
+lad	là
+đóg	đóng
+dụq	dụng
+đug	đung
+cãm	cảm
+qué	quá
+tổg	tổng
+đkí	đăng ký
+cữa	cửa
+clm	cái lồn mẹ
+xoq	xong
+soá	xóa
+hđh	hệ điều hành
+tặg	tặng
+đồg	đồng
+độg	động
+hoy	thôi
+lun	luôn
+mik	mình
+sđt	số điện thoại
+trc	trước
+rât	rất
+rùi	rồi
+tôt	tốt
+onl	online
+mún	muốn
+lổi	lỗi
+khg	không
+rep	trả lời
+hcm	hồ chí minh
+kiu	kêu
+zay	vậy
+cặt	cặc
+gữi	gửi
+nãn	nản
+trã	trả
+sịn	xịn
+lòg	lòng
+tot	tốt
+rat	rất
+vao	vào
+nua	nữa
+huy	hủy
+hag	hàng
+chử	chữ
+rak	rất
+củg	cũng
+coa	có
+okk	ok
+laz	lazada
+sốp	shop
+som	sớm
+xắm	sắm
+gất	rất
+dõm	dỏm
+giử	giữ
+thj	thi
+oki	ok
+gía	giá
+băt	bắt
+tót	tốt
+mói	mới
+vói	với
+lám	lắm
+met	mệt
+dổm	dỏm
+bân	bận
+lắt	lắc
+chễ	trễ
+okê	ok
+rẩt	rất
+hìh	hình
+đỏi	đổi
+ôkê	ok
+kỉu	kiểu
+xip	ship
+dụn	dụng
+fai	phải
+vag	và
+wak	quá
+acc	account
+ote	được
+dỗm	dỏm
+ghj	ghi
+mxh	mạng xã hội
+qài	hoài
+gòi	rồi
+zùm	dùm
+zùi	rồi
+zừa	vừa
+zởm	dỏm
+zỏm	dỏm
+zòm	dòm
+zốg	giống
+zới	với
+zồi	rồi
+xỷn	xỉn
+wúa	quá
+wuá	quá
+woá	quá
+wài	hoài
+vòg	vòng
+ăpp	app
+ápp	app
+xứg	xứng
+wên	quên
+vuj	vui
+vùg	vùng
+vớj	với
+vđề	vấn đề
+vaf	và
+ttừ	từ
+sạo	xạo
+tiu	tiêu
+căc	cặc
+ràg	ràng
+hũy	hủy
+hàh	hành
+cặk	cặc
+địh	định
+đeó	đéo
+đôg	đông
+bme	bố mẹ
+cta	chúng ta
+mqh	mối quan hệ
+vch	vãi chưởng
+pjt	biết
+tìh	tình
+rằg	rằng
+sốg	sống
+kte	kinh tế
+gắg	gắng
+plz	pờ ly
+răg	răng
+nkư	như
+xih	xinh
+zìa	gì
+kũg	cũng
+kậu	cậu
+xug	xùng
+cbị	chuẩn bị
+kòn	còn
+nắg	nắng
+kảm	cảm
+dàh	dành
+júp	giúp
+lặg	lặng
+vđê	vấn đề
+bbè	bạn bè
+bóg	bóng
+dòg	dòng
+uốg	uống
+qhe	quan hệ
+zám	dám
+bìh	bình
+lzi	làm gì
+qhệ	quan hệ
+kủa	của
+cka	cha
+lgi	làm gì
+nèk	nè
+bsĩ	bác sĩ
+hkì	học kỳ
+vde	vấn đề
+họk	học
+dừg	dừng
+lạh	lạnh
+fây	phây
+lúk	lúc
+haj	hai
+mớj	mới
+hsơ	hồ sơ
+kih	kinh
+uhm	ừm
+nyc	người yêu cũ
+nàg	nàng
+wtf	what the fuck
+chk	chồng
+hic	hích
+ctr	chương trình
+đii	đi
+nch	nói chuyện
+kêh	kênh
+tym	tim
+aye	anh yêu em
+eya	em yêu anh
+lol	lồn
+chs	chẳng hiểu sao
+ntn	như thế nào
+vcđ	vãi cả đái
+in4	info
+sub	subcribe
+hjx	hix
+đbh	đéo bao giờ
+unf	unfriend
+fen	friend
+quí	quý
+tđn	thế đéo nào
+klq	không liên quan
+ctv	cộng tác viên
+cóa	có
+cẹc	cặc
+djt	địt
+dki	đăng ký
+lag	đơ
+đm	địt mẹ
+ms	mới
+sd	sử dụng
+qc	quảng cáo
+ae	anh em
+ns	nói
+vl	vãi lồn
+dm	địt mẹ
+km	khuyến mãi
+mh	mình
+zô	dô
+ib	inbox
+jo	giờ
+iu	yêu
+wá	quá
+cg	cũng
+ud	ứng dụng
+dv	dịch vụ
+xl	xin lỗi
+ứg	ứng
+đx	được
+fs	free ship
+dx	được
+uk	ừ
+kb	kết bạn
+gj	gi
+ug	ứng
+dg	đang
+ưd	ứng dụng
+gê	ghê
+yc	yêu cầu
+sf	sản phẩm
+aj	ai
+hj	hi
+ưg	ưng
+ứq	ứng
+ủg	ủng
+vs	với
+mn	mọi người
+wa	quá
+dc	được
+sp	sản phẩm
+kg	không
+ng	người
+hk	không
+cx	cũng
+fb	facebook
+nx	nữa
+éo	đéo
+qá	quá
+ji	gì
+đg	đang
+kô	không
+ko	không
+đc	được
+gi	gì
+hà	à
+cã	cả
+ạk	ạ
+zì	gì
+đễ	để
+qq	quằn què
+dì	gì
+pị	bị
+gẻ	rẻ
+re	rẻ
+rẽ	rẻ
+nv	nhân viên
+zử	dữ
+zữ	dữ
+zụ	dụ
+zư	dư
+zú	vú
+ừk	ừ
+đỉ	đĩ
+ôg	ông
+cv	công việc
+pn	bạn
+ák	á
+xg	xuống
+dz	đẹp trai
+qà	quà
+zà	già
+lz	làm gì
+qả	quả
+òy	rồi
+vc	vợ chồng
+mk	mình
+bn	bạn
+cj	chị
+ck	chồng
+gđ	gia đình
+oh	ồ
+vk	vợ
+sg	sài gòn
+ah	à
+ạh	ạ
+rì	gì
+vn	việt nam
+àk	à
+uh	ừ
+tq	trung quốc
+ak	à
+ad	admin
+ny	người yêu
+zẻ	vẻ
+đt	điện thoại
+vđ	vãi đái
+vv	vui vẻ
+kh	không
+zạ	vậy
+oy	rồi
+ik	ý
+ce	chị em
+lm	làm
+đz	đẹp giai
+sr	sorry
+vd	ví dụ
+àh	à
+ku	cu
+0	không
+1	một
+2	hai
+3	ba
+4	bốn
+5	năm
+6	sáu
+7	bảy
+8	tám
+9	chín
+k	không
+nhiet tinh nhan vien	nhiệt tình nhân viên
+tuong doi chat luong	tương đối chất lượng
+hang hoa chat luong	hàng hoá chất lượng
+san pham chat luong	sản phẩm chất lượng
+khong the xac minh	không thể xác minh
+phu hop chat luong	phù hợp chất lượng
+thanh toan hoa don	thanh toán hóa đơn
+thong bao ung dung	thông báo ứng dụng
+xac thuc tai khoan	xác thực tài khoản
+dien thoai di dong	điện thoại di động
+khong trach nhiem	không trách nhiệm
+mot so thanh phan	một số thành phần
+nhiet tinh cam on	nhiệt tình cảm ơn
+khach hang khong	khách hàng không
+khong trung thuc	không trung thực
+khong van chuyen	không vận chuyển
+kinh khung khiep	kinh khủng khiếp
+thoa suc mua sam	thỏa sức mua sắm
+cao ngat nguong	cao ngất ngưởng
+cuoc van chuyen	cước vận chuyển
+khong kich hoat	không kích hoạt
+lam an gian doi	làm ăn gian dối
+lam an gian lan	làm ăn gian lận
+nhanh chong mat	nhanh chóng mặt
+pham chat luong	phẩm chất lượng
+tien van chuyen	tiền vận chuyển
+tinh chat luong	tính chất lượng
+tuong doi nhanh	tương đối nhanh
+tong thanh toan	tổng thanh toán
+van chuyen giao	vận chuyển giao
+van chuyen minh	vận chuyển mình
+dien thoai nhap	điện thoại nhập
+dien thoai vien	điện thoại viên
+dam bao an toan	đảm bảo an toàn
+ba ria vung tau	bà rịa vũng tàu
+biet bao nhieu	biết bao nhiêu
+giam gia thanh	giảm giá thành
+hinh nhan vien	hình nhân viên
+khach hang huy	khách hàng hủy
+khong the hien	không thể hiện
+lap trinh vien	lập trình viên
+ngay sinh nhat	ngày sinh nhật
+thanh toan hoa	thanh toán hóa
+thieu phu kien	thiếu phụ kiện
+thich ung dung	thích ứng dụng
+tien tai khoan	tiền tài khoản
+truc tiep nhan	trực tiếp nhận
+tinh thanh pho	tỉnh thành phố
+don phuong huy	đơn phương hủy
+duong day nong	đường dây nóng
+dat hang khong	đặt hàng không
+thua thien hue	thừa thiên huế
+cao ngat troi	cao ngất trời
+chuc nang huy	chức năng hủy
+cong nghe cao	công nghệ cao
+hien hinh anh	hiện hình ảnh
+hang hieu qua	hàng hiệu quả
+hang dau tien	hàng đầu tiên
+hoc sinh vien	học sinh viên
+khach hang ho	khách hàng họ
+khach huy don	khách hủy đơn
+khong the nao	không thể nào
+luu thong tin	lưu thông tin
+noi thanh pho	nội thành phố
+quan tri vien	quản trị viên
+shope huy don	shope hủy đơn
+san pham chat	sản phẩm chất
+thong bao huy	thông báo hủy
+tinh nang huy	tính năng hủy
+tot ngay cang	tốt ngày càng
+tong dai vien	tổng đài viên
+vo thanh toan	vô thanh toán
+bao ung dung	báo ứng dụng
+cao san pham	cao sản phẩm
+chuyen huong	chuyển hướng
+chuyen khoan	chuyển khoản
+chuong trinh	chương trình
+cai tro choi	cái trò chơi
+co nhan vien	có nhân viên
+doanh nghiep	doanh nghiệp
+giam gia nhu	giảm giá như
+hien thi gia	hiển thị giá
+hang hoa don	hàng hóa đơn
+hang hoa toc	hàng hỏa tốc
+hang huy don	hàng hủy đơn
+hang phuc vu	hàng phục vụ
+khinh thuong	khinh thường
+khuyen khich	khuyến khích
+ket noi mang	kết nối mạng
+loang ngoang	loằng ngoằng
+lam tro choi	làm trò chơi
+lam an khong	làm ăn không
+mot chut xiu	một chút xíu
+nghiem trong	nghiêm trọng
+niem yet gia	niêm yết giá
+phu hop nhat	phù hợp nhất
+shop huy don	shop hủy đơn
+suy nghi lai	suy nghĩ lại
+san pham gia	sản phẩm giá
+thong thuong	thông thường
+thuong luong	thương lượng
+thuong xuyen	thường xuyên
+the thao tac	thể thao tác
+thinh thoang	thỉnh thoảng
+truyen tranh	truyện tranh
+tui tien mat	túi tiền mặt
+xem mat hang	xem mặt hàng
+xoa san pham	xóa sản phẩm
+yen tam giao	yên tâm giao
+danh gia nhu	đánh giá như
+don gian hoa	đơn giản hóa
+dat hang huy	đặt hàng hủy
+bao lau nay	bao lâu nay
+binh thuong	bình thường
+bao huy don	bảo hủy đơn
+bay lau nay	bấy lâu nay
+chien thang	chiến thắng
+chong chong	chong chóng
+chuyen giao	chuyển giao
+chuyen phat	chuyển phát
+chop nhoang	chớp nhoáng
+co nghia la	có nghĩa là
+gian thuong	gian thương
+giai thuong	giải thưởng
+giam gia ca	giảm giá cả
+hoan nghenh	hoan nghênh
+hoanh trang	hoành tráng
+huyen thoai	huyền thoại
+huan chuong	huân chương
+ho tro giup	hỗ trợ giúp
+khoang cach	khoảng cách
+khuyet diem	khuyết điểm
+khong nhung	không những
+khong trung	không trung
+khong trach	không trách
+khong tuong	không tưởng
+khung khiep	khủng khiếp
+kinh nghiem	kinh nghiệm
+kiem nghiem	kiểm nghiệm
+lam an gian	làm ăn gian
+lam an thua	làm ăn thua
+mat cau xin	mặt cầu xin
+ngang nguoc	ngang ngược
+ngang nhien	ngang nhiên
+nghiem khac	nghiêm khắc
+nghiem ngat	nghiêm ngặt
+ngoai thanh	ngoại thành
+nguyen nhan	nguyên nhân
+ngat nguong	ngất ngưởng
+ngoc nghech	ngốc nghếch
+nhung nhieu	nhũng nhiễu
+phien nhieu	phiền nhiễu
+phuong cham	phương châm
+phuong dien	phương diện
+phuong phap	phương pháp
+phuong thuc	phương thức
+phuong tien	phương tiện
+phan thuong	phần thưởng
+ra tro choi	ra trò chơi
+rung chuyen	rung chuyển
+thien duong	thiên đường
+thuyet phuc	thuyết phục
+thuong hieu	thương hiệu
+thuong ngay	thường ngày
+that thuong	thất thường
+thinh vuong	thịnh vượng
+tieu thuyet	tiểu thuyết
+tieu thuong	tiểu thương
+trung thanh	trung thành
+truyen hinh	truyền hình
+trach nhiem	trách nhiệm
+trinh duyet	trình duyệt
+trong luong	trọng lượng
+trong khong	trống không
+tuong thich	tương thích
+tuong duong	tương đương
+tuong tuong	tưởng tượng
+vo san pham	vô sản phẩm
+xem xet lai	xem xét lại
+xu ly su co	xử lý sự cố
+yeu cau huy	yêu cầu hủy
+dang ki ten	đăng kí tên
+duong nhien	đương nhiên
+ho chi minh	hồ chí minh
+thai nguyen	thái nguyên
+tuyen quang	tuyên quang
+anh chi em	anh chị em
+bieu tuong	biểu tượng
+binh duong	bình dương
+bang thong	băng thông
+bat thuong	bất thường
+bat dau tu	bắt đầu từ
+bang chung	bằng chứng
+boi thuong	bồi thường
+bong nhien	bỗng nhiên
+cao gia ca	cao giá cả
+chiem dung	chiếm dụng
+chiem doat	chiếm đoạt
+chien dich	chiến dịch
+chien luoc	chiến lược
+chiet khau	chiết khấu
+chuyen gia	chuyên gia
+chuyen mon	chuyên môn
+chuyen doi	chuyển đổi
+chan thanh	chân thành
+chenh lech	chênh lệch
+chinh sach	chính sách
+chinh thuc	chính thức
+chinh dang	chính đáng
+chi bao ve	chỉ bảo vệ
+chung loai	chủng loại
+chung minh	chứng minh
+chung nhan	chứng nhận
+chung thuc	chứng thực
+coi thuong	coi thường
+con nghien	con nghiện
+cuoc chien	cuộc chiến
+cau chuyen	câu chuyện
+co the nao	có thể nào
+cang thang	căng thẳng
+canh tranh	cạnh tranh
+cau nguyen	cầu nguyện
+danh tieng	danh tiếng
+dung luong	dung lượng
+day chuyen	dây chuyền
+giang sinh	giáng sinh
+giai thich	giải thích
+gioi thieu	giới thiệu
+giua chung	giữa chừng
+hien tuong	hiện tượng
+hoan chinh	hoàn chỉnh
+hoan thien	hoàn thiện
+hoan thanh	hoàn thành
+hang khong	hàng không
+hanh chinh	hành chính
+hanh trinh	hành trình
+hinh tuong	hình tượng
+hong ngoai	hồng ngoại
+ho tro gia	hỗ trợ giá
+khuyen cao	khuyến cáo
+khach quan	khách quan
+khong gian	không gian
+khong kheo	không khéo
+khau trang	khẩu trang
+khang dinh	khẳng định
+khoi luong	khối lượng
+kinh khung	kinh khủng
+kien giang	kiên giang
+kiem chung	kiểm chứng
+kiem duyet	kiểm duyệt
+kich thich	kích thích
+kich thuoc	kích thước
+lazada huy	lazada hủy
+lazada nua	lazada nửa
+luoi bieng	lười biếng
+lich trinh	lịch trình
+mang tieng	mang tiếng
+moi truong	môi trường
+ngang ngua	ngang ngửa
+nghiem tuc	nghiêm túc
+nghien cuu	nghiên cứu
+nghe thuat	nghệ thuật
+ngoai tinh	ngoại tỉnh
+nguyen tac	nguyên tắc
+nguyen ven	nguyên vẹn
+nganh hang	ngành hàng
+ngay thang	ngày tháng
+ngay truoc	ngày trước
+nguoi than	người thân
+ngac nhien	ngạc nhiên
+ngau nhien	ngẫu nhiên
+ngo nghinh	ngộ nghĩnh
+nhanh nhay	nhanh nhạy
+nhanh nhen	nhanh nhẹn
+nhiet tinh	nhiệt tình
+nhin chung	nhìn chung
+nhu thuong	như thường
+nhuoc diem	nhược điểm
+nhat quyet	nhất quyết
+nhat thiet	nhất thiết
+niem phong	niêm phong
+noi chuyen	nói chuyện
+nuoc ngoai	nước ngoài
+phien long	phiền lòng
+phien phuc	phiền phức
+phien toai	phiền toái
+phong cach	phong cách
+phat trien	phát triển
+phai chang	phải chăng
+quan trong	quan trọng
+quen thuoc	quen thuộc
+quyet dinh	quyết định
+quang ninh	quảng ninh
+quay nhieu	quấy nhiễu
+rieng biet	riêng biệt
+sang trong	sang trọng
+than phien	than phiền
+thanh nien	thanh niên
+thanh than	thanh thản
+thanh toan	thanh toán
+thanh xuan	thanh xuân
+thi thoang	thi thoảng
+thiet nghi	thiết nghĩ
+thiet thuc	thiết thực
+thiet thoi	thiệt thòi
+thoai thac	thoái thác
+thuan tien	thuận tiện
+thuat toan	thuật toán
+thanh cong	thành công
+thanh phan	thành phần
+thanh that	thành thật
+thanh vien	thành viên
+thach thuc	thách thức
+than thiet	thân thiết
+than thien	thân thiện
+thinh linh	thình lình
+thich dang	thích đáng
+thong dung	thông dụng
+thong minh	thông minh
+thong thai	thông thái
+thong diep	thông điệp
+thong dong	thông đồng
+thuong mai	thương mại
+thanh thoi	thảnh thơi
+than trong	thận trọng
+thi truong	thị trường
+thong nhat	thống nhất
+thoi trang	thời trang
+thu nghiem	thử nghiệm
+tinh tuong	tinh tường
+tieu chuan	tiêu chuẩn
+tien trien	tiến triển
+tien trinh	tiến trình
+trang phuc	trang phục
+tranh chap	tranh chấp
+trung quoc	trung quốc
+trung thuc	trung thực
+trung tinh	trung tính
+tran trong	trân trọng
+tro chuyen	trò chuyện
+tram nghin	trăm nghìn
+truoc tien	trước tiên
+truong hop	trường hợp
+trang thai	trạng thái
+tram trong	trầm trọng
+trang tinh	trắng tinh
+trang toat	trắng toát
+trong vong	trọng vọng
+tron tranh	trốn tránh
+trong tron	trống trơn
+truc tuyen	trực tuyến
+tuyen chon	tuyển chọn
+tuyet giao	tuyệt giao
+tuyet pham	tuyệt phẩm
+tuyet dinh	tuyệt đỉnh
+tai nguyen	tài nguyên
+tinh huong	tình huống
+tinh trang	tình trạng
+tang cuong	tăng cường
+tuong xung	tương xứng
+tinh thanh	tỉnh thành
+toi uu hoa	tối ưu hóa
+tot so mot	tốt số một
+toi nghiep	tội nghiệp
+tu huy don	tự hủy đơn
+uy tin chi	uy tín chỉ
+vao khoang	vào khoảng
+vuong mien	vương miện
+xem thuong	xem thường
+xoa lazada	xóa lazada
+yeu cau la	yêu cầu là
+yeu thuong	yêu thương
+dieu chinh	điều chỉnh
+dieu khien	điều khiển
+dieu khoan	điều khoản
+dien thoai	điện thoại
+dien tu so	điện tử số
+dang hoang	đàng hoàng
+don phuong	đơn phương
+dau truong	đấu trường
+dia chi so	địa chỉ số
+dia phuong	địa phương
+dong nghia	đồng nghĩa
+binh phuoc	bình phước
+binh thuan	bình thuận
+ninh thuan	ninh thuận
+quang binh	quảng bình
+quang ngai	quảng ngãi
+tien giang	tiền giang
+bao nhieu	bao nhiêu
+biet dieu	biết điều
+bien phap	biện pháp
+bong bong	bong bóng
+buon cuoi	buồn cười
+binh chon	bình chọn
+binh luan	bình luận
+ban khoan	băn khoăn
+ban quyen	bản quyền
+bat luong	bất lương
+bay nhieu	bấy nhiêu
+bat chuoc	bắt chước
+bong dung	bỗng dưng
+can thiep	can thiệp
+chi nhanh	chi nhánh
+chieu tro	chiêu trò
+chieu hom	chiều hôm
+chieu toi	chiều tối
+chuan muc	chuẩn mực
+chuan xac	chuẩn xác
+chao mung	chào mừng
+chan ngat	chán ngắt
+chan that	chân thật
+chan thuc	chân thực
+che trach	chê trách
+chinh xac	chính xác
+chong mat	chóng mặt
+chu thich	chú thích
+chu trong	chú trọng
+chuc mung	chúc mừng
+chung may	chúng mày
+chung toi	chúng tôi
+chang nua	chăng nữa
+choi kham	chơi khăm
+chap nhan	chấp nhận
+chat lieu	chất liệu
+cham chap	chậm chạp
+chap chon	chập chờn
+chac chan	chắc chắn
+chang han	chẳng hạn
+chang qua	chẳng qua
+chang the	chẳng thể
+chet tiet	chết tiệt
+chi trich	chỉ trích
+chinh sua	chỉnh sửa
+chinh don	chỉnh đốn
+chiu thua	chịu thua
+chiu dung	chịu đựng
+chup giat	chụp giật
+chua chap	chứa chấp
+chuc nang	chức năng
+coi chung	coi chừng
+coi trong	coi trọng
+con nguoi	con người
+cung cach	cung cách
+cuoi cung	cuối cùng
+cuoc song	cuộc sống
+cach thuc	cách thức
+canh cung	cánh cứng
+cap quang	cáp quang
+cau khach	câu khách
+cong bang	công bằng
+cong dung	công dụng
+cong khai	công khai
+cong nghe	công nghệ
+cong viec	công việc
+cong doan	công đoạn
+cuong luc	cường lực
+canh giac	cảnh giác
+can trong	cẩn trọng
+cong kenh	cồng kềnh
+cong dong	cộng đồng
+cung nhac	cứng nhắc
+danh sach	danh sách
+di chuyen	di chuyển
+dien vien	diễn viên
+dung dich	dung dịch
+dung tung	dung túng
+dung dang	dùng dằng
+duong nhu	dường như
+de thuong	dễ thương
+dich benh	dịch bệnh
+dung dung	dửng dưng
+giai doan	giai đoạn
+gian hang	gian hàng
+giao dien	giao diện
+giao nhan	giao nhận
+giao tiep	giao tiếp
+gia thanh	giá thành
+gian doan	gián đoạn
+giai ngan	giải ngân
+giai phap	giải pháp
+giay phep	giấy phép
+giat minh	giật mình
+giong het	giống hệt
+guong gao	gượng gạo
+hiu quanh	hiu quạnh
+hieu biet	hiểu biết
+hien hinh	hiện hình
+hieu nang	hiệu năng
+hieu suat	hiệu suất
+hoan canh	hoàn cảnh
+hoan toan	hoàn toàn
+hoat dong	hoạt động
+huong chi	huống chi
+hang hieu	hàng hiệu
+hang loat	hàng loạt
+hang xach	hàng xách
+hanh dong	hành động
+hach dich	hách dịch
+hinh dung	hình dung
+hinh dang	hình dáng
+hinh thuc	hình thức
+huong dan	hướng dẫn
+hanh phuc	hạnh phúc
+hat giong	hạt giống
+hai duong	hải dương
+hoi thoai	hội thoại
+khieu dam	khiêu dâm
+khieu nai	khiếu nại
+khuon mat	khuôn mặt
+khac biet	khác biệt
+khach huy	khách hủy
+khai niem	khái niệm
+khoi phuc	khôi phục
+khong huy	không hủy
+khong khi	không khí
+khong luu	không lưu
+khong the	không thể
+khong dau	không đâu
+khac phuc	khắc phục
+khoi dong	khởi động
+kim cuong	kim cương
+kinh ngac	kinh ngạc
+kien nhan	kiên nhẫn
+kien nghi	kiến nghị
+kien thuc	kiến thức
+kiem nhan	kiểm nhận
+kiem soat	kiểm soát
+kiem dinh	kiểm định
+kieu cach	kiểu cách
+kieu dang	kiểu dáng
+keo mieng	kéo miệng
+kich hoat	kích hoạt
+linh hoat	linh hoạt
+linh kien	linh kiện
+linh dong	linh động
+lien minh	liên minh
+lien mien	liên miên
+lien tiep	liên tiếp
+loai hinh	loại hình
+lam bieng	làm biếng
+lam khach	làm khách
+lam phien	làm phiền
+lanh manh	lành mạnh
+len tieng	lên tiếng
+long vong	lòng vòng
+ly do huy	lý do hủy
+luu luong	lưu lượng
+luong tam	lương tâm
+lai giong	lại giống
+lap trinh	lập trình
+lang nghe	lắng nghe
+long hanh	lộng hành
+lon tieng	lớn tiếng
+loi nhuan	lợi nhuận
+mau chong	mau chóng
+minh bach	minh bạch
+mien giam	miễn giảm
+mong muon	mong muốn
+may khoan	máy khoan
+mang khoe	mạng khỏe
+mat chuot	mắt chuột
+mong manh	mỏng manh
+mot so it	một số ít
+nghiep du	nghiệp dư
+nghiep vu	nghiệp vụ
+ngheo nan	nghèo nàn
+nghi ngoi	nghỉ ngơi
+nghi viec	nghỉ việc
+ngon lanh	ngon lành
+ngoai mat	ngoài mặt
+ngoai tru	ngoại trừ
+ngoan muc	ngoạn mục
+nguy hiem	nguy hiểm
+nguon goc	nguồn gốc
+ngay cang	ngày càng
+ngan ngam	ngán ngẩm
+ngan hang	ngân hàng
+ngan chan	ngăn chặn
+nguoi lam	người làm
+nguoi lon	người lớn
+nguoi may	người máy
+nguoi mau	người mẫu
+nguoi nha	người nhà
+nguoi yeu	người yêu
+nguoc lai	ngược lại
+ngan ngai	ngần ngại
+ngam ngui	ngậm ngùi
+ngap tran	ngập tràn
+nhieu khe	nhiêu khê
+nham chan	nhàm chán
+nhan cach	nhân cách
+nhan pham	nhân phẩm
+nhan hieu	nhãn hiệu
+nhi nhang	nhì nhằng
+nhan nheo	nhăn nheo
+nhu khong	như không
+nhan manh	nhấn mạnh
+nhap nhay	nhấp nháy
+nhat dinh	nhất định
+nhan biet	nhận biết
+nhan dien	nhận diện
+nhan dinh	nhận định
+nhap khau	nhập khẩu
+nhe nhang	nhẹ nhàng
+nhoi nhet	nhồi nhét
+nen nguoi	nên người
+noi chung	nói chung
+noi rieng	nói riêng
+noi thang	nói thẳng
+nong thon	nông thôn
+nong trai	nông trại
+nam ngoai	năm ngoái
+nam thang	năm tháng
+nang dong	năng động
+nang nong	nắng nóng
+noi tieng	nổi tiếng
+noi thanh	nội thành
+phong phu	phong phú
+phap luat	pháp luật
+phat hien	phát hiện
+phat hanh	phát hành
+phat sinh	phát sinh
+phan biet	phân biệt
+phan chia	phân chia
+phan giai	phân giải
+phan loai	phân loại
+phan phoi	phân phối
+phe duyet	phê duyệt
+phong chu	phông chữ
+phuong an	phương án
+pham luat	phạm luật
+phan tram	phần trăm
+pho thong	phổ thông
+phu thuoc	phụ thuộc
+phu trach	phụ trách
+quan diem	quan điểm
+quay vong	quay vòng
+quy trinh	quy trình
+quyen luc	quyền lực
+qua chung	quá chừng
+qua trinh	quá trình
+quen minh	quên mình
+quy khach	quý khách
+quang nam	quảng nam
+quan jean	quần jean
+rang buoc	ràng buộc
+sendo huy	sendo hủy
+shope huy	shope hủy
+sinh hoat	sinh hoạt
+sinh nhat	sinh nhật
+sinh vien	sinh viên
+sieu nhan	siêu nhân
+sang suot	sáng suốt
+song nhan	sống nhăn
+tham khao	tham khảo
+thanh hoa	thanh hóa
+thanh loc	thanh lọc
+thiet lap	thiết lập
+thiet yeu	thiết yếu
+thieu sot	thiếu sót
+thien chi	thiện chí
+thien cam	thiện cảm
+thiet hai	thiệt hại
+thoai mai	thoải mái
+thu hoach	thu hoạch
+thuan loi	thuận lợi
+thanh lap	thành lập
+thanh pho	thành phố
+thai binh	thái bình
+thang mot	tháng một
+thich hop	thích hợp
+thich thu	thích thú
+thich ung	thích ứng
+thoi quen	thói quen
+thong cam	thông cảm
+thong qua	thông qua
+thuong de	thượng đế
+than kinh	thần kinh
+thay cung	thầy cúng
+thay giao	thầy giáo
+tham dinh	thẩm định
+that tinh	thật tình
+thang loi	thắng lợi
+that lung	thắt lưng
+thang cha	thằng cha
+thang tay	thẳng tay
+the thong	thể thống
+thoi buoi	thời buổi
+thoi gian	thời gian
+thoi tiet	thời tiết
+thoi diem	thời điểm
+thuy tinh	thủy tinh
+thua nhan	thừa nhận
+thu thach	thử thách
+thuc chat	thực chất
+thuc dung	thực dụng
+thuc hien	thực hiện
+thuc pham	thực phẩm
+tinh than	tinh thần
+tieu dung	tiêu dùng
+tien hanh	tiến hành
+tiep dien	tiếp diễn
+tiep nhan	tiếp nhận
+tiet kiem	tiết kiệm
+tiem nang	tiềm năng
+tiec tung	tiệc tùng
+tien nghi	tiện nghi
+toan dien	toàn diện
+toan quoc	toàn quốc
+trang chu	trang chủ
+trang suc	trang sức
+trang tri	trang trí
+tranh thu	tranh thủ
+trung tam	trung tâm
+trinh bay	trình bày
+trung lap	trùng lặp
+tram ngan	trăm ngàn
+trung bay	trưng bày
+truoc het	trước hết
+truoc kia	trước kia
+truoc mat	trước mắt
+truoc nay	trước nay
+truoc sau	trước sau
+truoc day	trước đây
+tram ngam	trầm ngâm
+tray xuoc	trầy xước
+trang boc	trắng bóc
+trang xoa	trắng xoá
+trong tam	trọng tâm
+tro thanh	trở thành
+truc trac	trục trặc
+truc quan	trực quan
+truc tiep	trực tiếp
+tuy nhien	tuy nhiên
+tuyet hao	tuyệt hảo
+tuyet doi	tuyệt đối
+tai chinh	tài chính
+tai khoan	tài khoản
+tac phong	tác phong
+tam trang	tâm trạng
+tinh hinh	tình hình
+tin nhiem	tín nhiệm
+tinh chat	tính chất
+tinh dung	tính dụng
+tinh giao	tính giao
+tinh nang	tính năng
+tinh toan	tính toán
+ton trong	tôn trọng
+tuy chinh	tùy chỉnh
+tuy nguoi	tùy người
+tuy thich	tùy thích
+tuong lai	tương lai
+tuong tac	tương tác
+tuong doi	tương đối
+tuong ung	tương ứng
+tat nhien	tất nhiên
+tap trung	tập trung
+tac trach	tắc trách
+ti le huy	tỉ lệ hủy
+toi thieu	tối thiểu
+tong cong	tổng cộng
+tong quan	tổng quan
+tong tien	tổng tiền
+tung trai	từng trải
+vui suong	vui sướng
+vui thich	vui thích
+vong tron	vòng tròn
+vo toi va	vô tội vạ
+van phong	văn phòng
+vinh biet	vĩnh biệt
+vinh vien	vĩnh viễn
+vuot troi	vượt trội
+vung manh	vững mạnh
+xong xuoi	xong xuôi
+xuat hien	xuất hiện
+xuong cap	xuống cấp
+xuong doc	xuống dốc
+xet duyet	xét duyệt
+xoa shope	xóa shope
+dien tiet	điên tiết
+dieu hanh	điều hành
+dieu kien	điều kiện
+diem danh	điểm danh
+dien hinh	điển hình
+danh cuoc	đánh cược
+danh trao	đánh tráo
+duong dan	đường dẫn
+duoc viec	được việc
+dinh menh	định mệnh
+doi tuong	đối tượng
+dong hanh	đồng hành
+dong kiem	đồng kiểm
+dong loat	đồng loạt
+dong nhat	đồng nhất
+dong thoi	đồng thời
+dong tien	đồng tiền
+doc quyen	độc quyền
+dong thai	động thái
+dong vien	động viên
+dot nhien	đột nhiên
+ua chuong	ưa chuộng
+anh huong	ảnh hưởng
+bac giang	bắc giang
+binh dinh	bình định
+hai phong	hải phòng
+hau giang	hậu giang
+dien bien	điện biên
+dong thap	đồng tháp
+khanh hoa	khánh hòa
+ninh binh	ninh bình
+quang tri	quảng trị
+soc trang	sóc trăng
+vinh long	vĩnh long
+vinh phuc	vĩnh phúc
+rat nhanh	rất nhanh
+anh hung	anh hùng
+ban hanh	ban hành
+ban ngay	ban ngày
+bien ban	biên bản
+biet bao	biết bao
+biet may	biết mấy
+biet dau	biết đâu
+bieu cam	biểu cảm
+buon ban	buôn bán
+buon ghe	buồn ghê
+buon ngu	buồn ngủ
+buon non	buồn nôn
+ban giao	bàn giao
+ban phim	bàn phím
+bach hoa	bách hóa
+ban buon	bán buôn
+ban chay	bán chạy
+bat nhao	bát nháo
+benh vuc	bênh vực
+binh dan	bình dân
+bang keo	băng keo
+buu kien	bưu kiện
+buu pham	bưu phẩm
+buu dien	bưu điện
+buoc dau	bước đầu
+ban chat	bản chất
+ban than	bản thân
+bao hiem	bảo hiểm
+bao quan	bảo quản
+bat chap	bất chấp
+bat cong	bất công
+bat tien	bất tiện
+ban cung	bần cùng
+bau troi	bầu trời
+ban thiu	bẩn thỉu
+bat buoc	bắt buộc
+bat nhap	bắt nhập
+be ngoai	bề ngoài
+ben vung	bền vững
+bo phieu	bỏ phiếu
+cai quan	cai quản
+cao ngat	cao ngất
+cao tuoi	cao tuổi
+cao diem	cao điểm
+chi tiet	chi tiết
+cho cung	cho cùng
+chuan bi	chuẩn bị
+chao ban	chào bán
+chan che	chán chê
+chan nan	chán nản
+chay tui	cháy túi
+cho chet	chó chết
+chot vot	chót vót
+chung no	chúng nó
+chung ta	chúng ta
+chut xiu	chút xíu
+cham chi	chăm chỉ
+choi xau	chơi xấu
+chua huy	chưa hủy
+cham dut	chấm dứt
+cham het	chấm hết
+chan cho	chần chờ
+chan chu	chần chừ
+cham tre	chậm trễ
+chang le	chẳng lẽ
+chat che	chặt chẽ
+chiu kho	chịu khó
+chon loc	chọn lọc
+chon lua	chọn lựa
+cho troi	chợ trời
+chu nhat	chủ nhật
+chu dong	chủ động
+chung cu	chứng cứ
+chung to	chứng tỏ
+chung tu	chứng từ
+chui boi	chửi bới
+chu viet	chữ viết
+con chau	con cháu
+cung ung	cung ứng
+cuoc goi	cuộc gọi
+cuoc doi	cuộc đời
+can bang	cân bằng
+can nhac	cân nhắc
+co li do	có lí do
+co ly do	có lý do
+co nghia	có nghĩa
+cong suc	công sức
+cung kho	cùng khổ
+cung nen	cũng nên
+com dien	cơm điện
+cuoc phi	cước phí
+cai cach	cải cách
+cai tien	cải tiến
+cam bien	cảm biến
+cam giac	cảm giác
+cam nhan	cảm nhận
+cam tinh	cảm tình
+canh cao	cảnh cáo
+cau hinh	cấu hình
+cau mong	cầu mong
+cau vong	cầu vồng
+can than	cẩn thận
+cap nhap	cập nhập
+cap nhat	cập nhật
+can nhan	cằn nhằn
+co phieu	cổ phiếu
+cuu giup	cứu giúp
+cua minh	cửa mình
+danh muc	danh mục
+doanh so	doanh số
+dung thu	dung thứ
+duy nhat	duy nhất
+dai dong	dài dòng
+di nhien	dĩ nhiên
+dau hieu	dấu hiệu
+dep tiem	dẹp tiệm
+du phong	dự phòng
+ghi nhan	ghi nhận
+gia dung	gia dụng
+gia giao	gia giáo
+gia nhap	gia nhập
+gia tien	gia tiên
+gia dinh	gia đình
+gian doi	gian dối
+gian lan	gian lận
+gian tra	gian trá
+gian xao	gian xảo
+giang ho	giang hồ
+giao hen	giao hẹn
+giao huy	giao hủy
+giay dep	giày dép
+giam sat	giám sát
+giam doc	giám đốc
+giao duc	giáo dục
+giup ich	giúp ích
+gia danh	giả danh
+giai tri	giải trí
+giai tan	giải tán
+giai dap	giải đáp
+giam sut	giảm sút
+gioi han	giới hạn
+gio giac	giờ giấc
+gop phan	góp phần
+gang tay	găng tay
+gau truc	gấu trúc
+gat gong	gắt gỏng
+gon gang	gọn gàng
+hay biet	hay biết
+hien thi	hiển thị
+hien gio	hiện giờ
+hien nay	hiện nay
+hien tai	hiện tại
+hien dai	hiện đại
+hieu luc	hiệu lực
+hieu qua	hiệu quả
+hieu ung	hiệu ứng
+hoa hong	hoa hồng
+hoan hao	hoàn hảo
+hoan tra	hoàn trả
+hoan tat	hoàn tất
+hai huoc	hài hước
+han quoc	hàn quốc
+hang cho	hàng chợ
+hang huy	hàng hủy
+hang xom	hàng xóm
+hao hung	hào hứng
+hinh mau	hình mẫu
+hinh nhu	hình như
+hinh anh	hình ảnh
+hoi nuoc	hơi nước
+hu khong	hư không
+hang muc	hạng mục
+het long	hết lòng
+het minh	hết mình
+he thong	hệ thống
+hoc sinh	học sinh
+hoi tham	hỏi thăm
+hong hoc	hỏng hóc
+hoi thuc	hối thúc
+hoi phuc	hồi phục
+hop dong	hợp đồng
+hut hang	hụt hẫng
+huy diet	hủy diệt
+huy hang	hủy hàng
+huy tinh	hủy tính
+huy vong	hủy vọng
+hung thu	hứng thú
+keo kiet	keo kiệt
+khai bao	khai báo
+khoa hoc	khoa học
+khac nao	khác nào
+kham pha	khám phá
+khi chat	khí chất
+khich le	khích lệ
+kho chiu	khó chịu
+kho khan	khó khăn
+kho tinh	khó tính
+khong le	không lẽ
+kha dung	khả dụng
+kha nang	khả năng
+kha quan	khả quan
+khao sat	khảo sát
+khat khe	khắt khe
+khon nan	khốn nạn
+khong lo	khổng lồ
+khoi dau	khởi đầu
+khung bo	khủng bố
+kinh hon	kinh hồn
+kinh tom	kinh tởm
+kien tri	kiên trì
+kien cao	kiện cáo
+ko thich	ko thích
+keu nhap	kêu nhập
+kich cau	kích cầu
+ki luong	kĩ lưỡng
+ki thuat	kĩ thuật
+ke hoach	kế hoạch
+ket luan	kết luận
+ket thuc	kết thúc
+kip thoi	kịp thời
+ky luong	kỹ lưỡng
+ky thuat	kỹ thuật
+lao dong	lao động
+linh hon	linh hồn
+lien lac	liên lạc
+lien tuc	liên tục
+lien tay	liền tay
+loai tru	loại trừ
+lam cong	làm công
+lam giau	làm giàu
+lam hang	làm hàng
+lam quen	làm quen
+lam tien	làm tiền
+lam tron	làm tròn
+lam viec	làm việc
+lao nhao	láo nháo
+lao toet	láo toét
+lai suat	lãi suất
+lang phi	lãng phí
+lanh dao	lãnh đạo
+ly tuong	lý tưởng
+linh vuc	lĩnh vực
+luu manh	lưu manh
+luon leo	lươn lẹo
+lam dung	lạm dụng
+lap liem	lấp liếm
+lap lanh	lấp lánh
+lay duoc	lấy được
+lat long	lật lọng
+long leo	lỏng lẻo
+lon manh	lớn mạnh
+lon tuoi	lớn tuổi
+lom khom	lởm khởm
+loi dung	lợi dụng
+mien phi	miễn phí
+mien sao	miễn sao
+mong cho	mong chờ
+mong doi	mong đợi
+muon nam	muôn năm
+man hinh	màn hình
+may giat	máy giặt
+may tinh	máy tính
+manh dan	mạnh dạn
+manh tay	mạnh tay
+mat long	mất lòng
+mat mang	mất mạng
+mat tich	mất tích
+mat khau	mật khẩu
+mat kinh	mắt kính
+mac dinh	mặc định
+mat bang	mặt bằng
+mat hang	mặt hàng
+mat khac	mặt khác
+mat troi	mặt trời
+menh gia	mệnh giá
+mot chut	một chút
+mot cach	một cách
+mot minh	một mình
+moi tinh	mới tinh
+mo mieng	mở miệng
+muc tieu	mục tiêu
+muc dich	mục đích
+nghe dau	nghe đâu
+nghi ngo	nghi ngờ
+nghi lai	nghĩ lại
+nghia la	nghĩa là
+ngoai ra	ngoài ra
+ngu ngoc	ngu ngốc
+ngu xuan	ngu xuẩn
+ngay gio	ngày giờ
+ngay kia	ngày kia
+ngay mai	ngày mai
+ngay mot	ngày một
+ngay nay	ngày nay
+ngay xua	ngày xưa
+ngon cai	ngón cái
+ngon tro	ngón trỏ
+ngoi sao	ngôi sao
+ngon ngu	ngôn ngữ
+ngo ngac	ngơ ngác
+nguoi ta	người ta
+ngan gon	ngắn gọn
+ngo ngan	ngớ ngẩn
+ngua mat	ngứa mắt
+nhieu su	nhiễu sự
+nhiem vu	nhiệm vụ
+nhiet ke	nhiệt kế
+nha giao	nhà giáo
+nha hang	nhà hàng
+nha nuoc	nhà nước
+nha sach	nhà sách
+nhay mat	nháy mắt
+nhan dan	nhân dân
+nhan dip	nhân dịp
+nhan qua	nhân quả
+nhan mac	nhãn mác
+nhun vai	nhún vai
+nhan nho	nhăn nhó
+nhu choi	như chơi
+nhu dien	như điên
+nhay cam	nhạy cảm
+nham nhi	nhảm nhí
+nham lan	nhầm lẫn
+nhan mat	nhận mặt
+nhan xet	nhận xét
+nhac nho	nhắc nhở
+nhan gui	nhắn gửi
+nhan tin	nhắn tin
+niem yet	niêm yết
+nang cap	nâng cấp
+nang gia	nâng giá
+noi nang	nói năng
+nong buc	nóng bức
+nong dan	nông dân
+nang luc	năng lực
+nuoc hoa	nước hoa
+nuoc mat	nước mắt
+nan nhan	nạn nhân
+nan long	nản lòng
+nen tang	nền tảng
+noi dung	nội dung
+nuc cuoi	nực cười
+oan uong	oan uổng
+ok thich	ok thích
+phim anh	phim ảnh
+phong do	phong độ
+phan nan	phàn nàn
+pha hoai	phá hoại
+phao hoa	pháo hoa
+phat tai	phát tài
+phat dat	phát đạt
+phan nua	phân nửa
+phan van	phân vân
+phe binh	phê bình
+phi pham	phí phạm
+phai chi	phải chi
+phan cam	phản cảm
+phan doi	phản đối
+phan ung	phản ứng
+phan lon	phần lớn
+phan nao	phần nào
+pham gia	phẩm giá
+phe lieu	phế liệu
+phe pham	phế phẩm
+phe thai	phế thải
+phoi hop	phối hợp
+pho bien	phổ biến
+phu kien	phụ kiện
+phu tung	phụ tùng
+phuc hoi	phục hồi
+phu nhan	phủ nhận
+phui tay	phủi tay
+phuc tap	phức tạp
+qua ngay	qua ngày
+quan sat	quan sát
+quan tam	quan tâm
+qui dinh	qui định
+quy cach	quy cách
+quy dinh	quy định
+qua dang	quá đáng
+quan doi	quân đội
+qua tang	quả tang
+qua that	quả thật
+quan tri	quản trị
+quang ba	quảng bá
+quay roi	quấy rối
+quan lot	quần lót
+quan dui	quần đùi
+quoc gia	quốc gia
+rieng le	riêng lẻ
+rieng tu	riêng tư
+rac ruoi	rác rưởi
+rach nat	rách nát
+rut tien	rút tiền
+ranh roi	rảnh rỗi
+rot cuoc	rốt cuộc
+rong rai	rộng rãi
+sai lech	sai lệch
+sai pham	sai phạm
+sao chep	sao chép
+sau cung	sau cùng
+shop huy	shop hủy
+sieu thi	siêu thị
+sieu toc	siêu tốc
+sang loc	sàng lọc
+sang lap	sáng lập
+sang mai	sáng mai
+sang tao	sáng tạo
+san choi	sân chơi
+suc sinh	súc sinh
+san xuat	sản xuất
+san sang	sẵn sàng
+so luong	số lượng
+so thanh	số thành
+sot ruot	sốt ruột
+som muon	sớm muộn
+so thich	sở thích
+suc khoe	sức khỏe
+sua chua	sửa chữa
+tay nghe	tay nghề
+thanh ly	thanh lý
+thao tac	thao tác
+thay mat	thay mặt
+thay doi	thay đổi
+theo doi	theo dõi
+thien ha	thiên hạ
+thien vi	thiên vị
+thiet ke	thiết kế
+thieu gi	thiếu gì
+thu nhap	thu nhập
+thu thap	thu thập
+thua kem	thua kém
+thue bao	thuê bao
+thue vat	thuế vat
+thuoc la	thuốc lá
+thanh ra	thành ra
+than men	thân mến
+thi thoi	thì thôi
+thoi thi	thôi thì
+thong so	thông số
+thu vien	thư viện
+tham hai	thảm hại
+that bai	thất bại
+that lac	thất lạc
+that duc	thất đức
+tham chi	thậm chí
+that tha	thật thà
+thac mac	thắc mắc
+the hien	thể hiện
+the loai	thể loại
+the thao	thể thao
+thi phan	thị phần
+thi tran	thị trấn
+thoa mai	thỏa mái
+thoa suc	thỏa sức
+thoi gio	thời giờ
+thoi han	thời hạn
+thoi dai	thời đại
+thut lui	thụt lùi
+thu cong	thủ công
+thu doan	thủ đoạn
+thuc don	thực đơn
+tiki huy	tiki hủy
+tinh dau	tinh dầu
+tieu chi	tiêu chí
+tiep can	tiếp cận
+tiep tay	tiếp tay
+tiep thu	tiếp thu
+tiep thi	tiếp thị
+tiep xuc	tiếp xúc
+tien bac	tiền bạc
+tien mat	tiền mặt
+tien van	tiền vận
+toan cau	toàn cầu
+toan huy	toàn hủy
+toan tap	toàn tập
+trang bi	trang bị
+tranh cu	tranh cử
+trao doi	trao đổi
+triet de	triệt để
+truy cap	truy cập
+tra tron	trà trộn
+tran lan	tràn lan
+tran tre	tràn trề
+tra hang	trá hàng
+tra hinh	trá hình
+trai tim	trái tim
+trai dao	trái đào
+tren het	trên hết
+tri hoan	trì hoãn
+trinh tu	trình tự
+trinh do	trình độ
+tro choi	trò chơi
+troi noi	trôi nổi
+tron tru	trơn tru
+troi dat	trời đất
+tro ngai	trở ngại
+tro giup	trợ giúp
+truc loi	trục lợi
+tuy rang	tuy rằng
+tuyen bo	tuyên bố
+tuan thu	tuân thủ
+tai nghe	tài nghệ
+tac dung	tác dụng
+tam giao	tâm giao
+ten tuoi	tên tuổi
+tim hieu	tìm hiểu
+tim kiem	tìm kiếm
+tinh cam	tình cảm
+tinh duc	tình dục
+tinh yeu	tình yêu
+tich gop	tích góp
+tich hop	tích hợp
+tich luy	tích lũy
+tin hieu	tín hiệu
+tuy chon	tùy chọn
+tuy shop	tùy shop
+tuy tien	tùy tiện
+tui tien	túi tiền
+tui xach	túi xách
+tuong tu	tương tự
+tam biet	tạm biệt
+tap nham	tạp nham
+tang lop	tầng lớp
+tay chay	tẩy chay
+tan dung	tận dụng
+tan tinh	tận tình
+tap doan	tập đoàn
+tinh tao	tỉnh táo
+toi ngay	tối ngày
+tot bung	tốt bụng
+tot khoe	tốt khỏe
+tot lanh	tốt lành
+tot tinh	tốt tính
+ton that	tổn thất
+tong gia	tổng giá
+tong hop	tổng hợp
+tong lai	tổng lại
+tong phi	tổng phí
+tong the	tổng thể
+tong dai	tổng đài
+tong don	tổng đơn
+tuc gian	tức giận
+viec lam	việc làm
+viet nam	việt nam
+vui long	vui lòng
+vui mung	vui mừng
+vui nhon	vui nhộn
+vui tinh	vui tính
+vao cuoc	vào cuộc
+vong tay	vòng tay
+vo duyen	vô duyên
+vo nghia	vô nghĩa
+vung sau	vùng sâu
+van minh	văn minh
+vung tau	vũng tàu
+vuot bac	vượt bậc
+van hanh	vận hành
+van dong	vận động
+vat dung	vật dụng
+vat pham	vật phẩm
+vo chong	vợ chồng
+vua long	vừa lòng
+vua phai	vừa phải
+xinh dep	xinh đẹp
+xong huy	xong hủy
+xu huong	xu hướng
+xuat ban	xuất bản
+xuat sac	xuất sắc
+xac minh	xác minh
+xac nhan	xác nhận
+xac thuc	xác thực
+xac dinh	xác định
+xam nhap	xâm nhập
+xay dung	xây dựng
+xoa hang	xóa hàng
+xoa luon	xóa luôn
+xuc pham	xúc phạm
+yen nghi	yên nghỉ
+yeu sach	yêu sách
+yeu tinh	yêu tinh
+anh sang	ánh sáng
+ao khoac	áo khoác
+ao phong	áo phông
+am thanh	âm thanh
+it nhieu	ít nhiều
+an khong	ăn không
+dan cheo	đan chéo
+den thui	đen thui
+dieu tra	điều tra
+dien bao	điện báo
+dien may	điện máy
+dao thai	đào thải
+dang gia	đáng giá
+danh bac	đánh bạc
+danh cap	đánh cắp
+danh dau	đánh dấu
+danh lua	đánh lừa
+dong cua	đóng cửa
+dong goi	đóng gói
+dong gop	đóng góp
+dong hop	đóng hộp
+doi chut	đôi chút
+dung dan	đúng đắn
+dang tai	đăng tải
+don gian	đơn giản
+duoc cai	được cái
+dai dien	đại diện
+dai loai	đại loại
+dat nuoc	đất nước
+dau hang	đầu hàng
+dau sach	đầu sách
+dau tien	đầu tiên
+dau xanh	đậu xanh
+dang cap	đẳng cấp
+dac biet	đặc biệt
+dep trai	đẹp trai
+de phong	đề phòng
+dinh cao	đỉnh cao
+dia diem	địa điểm
+dong nai	đồng nai
+dong luc	động lực
+dong vat	động vật
+dot ngot	đột ngột
+dot xuat	đột xuất
+doi song	đời sống
+ua thich	ưa thích
+uoc tinh	ước tính
+an tuong	ấn tượng
+an giang	an giang
+bac lieu	bạc liêu
+bac ninh	bắc ninh
+cao bang	cao bằng
+hoa binh	hòa bình
+ha giang	hà giang
+hung yen	hưng yên
+dak nong	đắk nông
+lai chau	lai châu
+lam dong	lâm đồng
+lang son	lạng sơn
+nam dinh	nam định
+tra vinh	trà vinh
+tay ninh	tây ninh
+hay that	hay thật
+an toan	an toàn
+anh chi	anh chị
+ban dem	ban đêm
+ban dau	ban đầu
+bao boc	bao bọc
+bao gio	bao giờ
+bao goi	bao gói
+bao gom	bao gồm
+bao lau	bao lâu
+bao tai	bao tải
+bien co	biến cố
+biet on	biết ơn
+buon ba	buồn bã
+bai hoc	bài học
+ban cai	bàn cãi
+ban tay	bàn tay
+bao che	bào chế
+bay dat	bày đặt
+banh mi	bánh mì
+banh xe	bánh xe
+bao cao	báo cáo
+bao gia	báo giá
+bay gio	bây giờ
+binh on	bình ổn
+bong da	bóng đá
+buu cuc	bưu cục
+ban sao	bản sao
+bao mat	bảo mật
+bao thu	bảo thủ
+bao tri	bảo trì
+bao tro	bảo trợ
+bam huy	bấm hủy
+bat can	bất cần
+bat loi	bất lợi
+bat luc	bất lực
+bat man	bất mãn
+bat ngo	bất ngờ
+bat tin	bất tín
+ban biu	bận bịu
+ban ron	bận rộn
+ban tam	bận tâm
+bat lua	bật lửa
+bap cay	bắp cày
+bap tay	bắp tay
+bat mat	bắt mắt
+bat tay	bắt tay
+bat dau	bắt đầu
+bat den	bắt đền
+bip bom	bịp bợm
+bo hung	bọ hung
+boi roi	bối rối
+bo sung	bổ sung
+bo phan	bộ phận
+buc xuc	bức xúc
+bua bai	bừa bãi
+bua nay	bữa nay
+buc boi	bực bội
+buc tuc	bực tức
+cam ket	cam kết
+cao cap	cao cấp
+cao gia	cao giá
+chi phi	chi phí
+chi tra	chi trả
+chia se	chia sẻ
+cho nen	cho nên
+chu dao	chu đáo
+chen ep	chèn ép
+che bai	chê bai
+chut it	chút ít
+chac an	chắc ăn
+che tai	chế tài
+chi bao	chỉ bảo
+chi dan	chỉ dẫn
+chi toi	chỉ tội
+choi bo	chối bỏ
+cho doi	chờ đợi
+cho bua	chợ búa
+chu yeu	chủ yếu
+chu cai	chữ cái
+chu tin	chữ tín
+con gai	con gái
+con mot	con một
+con nit	con nít
+ca chon	cà chớn
+cai dat	cài đặt
+ca nhan	cá nhân
+cai tro	cái trò
+cau gat	cáu gắt
+cay but	cây bút
+cai lon	cãi lộn
+co dieu	có điều
+cong an	công an
+cong bo	công bố
+cong cu	công cụ
+co quan	cơ quan
+com bua	cơm bữa
+cuoi do	cười đồ
+can loi	cạn lời
+cai tao	cải tạo
+cam xuc	cảm xúc
+cam ung	cảm ứng
+cau ket	cấu kết
+can cau	cần câu
+cau thu	cầu thủ
+cau tha	cẩu thả
+co gang	cố gắng
+co tinh	cố tình
+co dinh	cố định
+co phan	cổ phần
+coc can	cộc cằn
+coc loc	cộc lốc
+cuc suc	cục súc
+cung co	củng cố
+cuc kho	cực khổ
+danh ba	danh bạ
+danh du	danh dự
+dien ta	diễn tả
+du lich	du lịch
+duy tri	duy trì
+dan toc	dân tộc
+day dua	dây dưa
+dai kho	dại khờ
+dau goi	dầu gội
+de chiu	dễ chịu
+de tinh	dễ tính
+dich vu	dịch vụ
+doi dao	dồi dào
+dung cu	dụng cụ
+dung mo	dửng mỡ
+du lieu	dữ liệu
+du tinh	dự tính
+du doan	dự đoán
+du dinh	dự định
+ghi chu	ghi chú
+ghe gom	ghê gớm
+gia bao	gia bảo
+gia han	gia hạn
+giau co	giàu có
+gia nhu	giá như
+gia tri	giá trị
+gio mua	gió mùa
+giup do	giúp đỡ
+gia doi	giả dối
+gia mao	giả mạo
+gia tao	giả tạo
+gian di	giản dị
+giay to	giấy tờ
+gian du	giận dữ
+gio day	giờ đây
+gan gui	gần gũi
+gat gao	gắt gao
+gon nhe	gọn nhẹ
+hay huy	hay hủy
+hi vong	hi vọng
+hoa toc	hoả tốc
+hy vong	hy vọng
+hang ho	hàng họ
+hang ma	hàng mã
+hanh vi	hành vi
+hom thu	hòm thư
+hom kia	hôm kia
+hom nay	hôm nay
+hom qua	hôm qua
+hon nua	hơn nữa
+hu hong	hư hỏng
+han che	hạn chế
+han hep	hạn hẹp
+hau het	hầu hết
+hau nhu	hầu như
+hau mai	hậu mãi
+hau qua	hậu quả
+hat hoi	hắt hơi
+han hoi	hẳn hoi
+het hon	hết hồn
+het loi	hết lời
+het suc	hết sức
+hoc hoi	học hỏi
+hoc tap	học tập
+hoi han	hối hận
+hoi hop	hồi hộp
+hoi cho	hội chợ
+hoi thi	hội thí
+hop thu	hộp thư
+hoi hot	hời hợt
+hop tac	hợp tác
+huy tin	hủy tín
+huy don	hủy đơn
+hua hen	hứa hẹn
+im lang	im lặng
+kha kha	kha khá
+khu vuc	khu vực
+khi tai	khí tài
+kha thi	khả thi
+kinh di	kinh dị
+kem coi	kém cỏi
+keo dai	kéo dài
+keo lai	kéo lại
+keu goi	kêu gọi
+keu huy	kêu hủy
+ki dieu	kì diệu
+ki vong	kì vọng
+kich co	kích cỡ
+ki cang	kĩ càng
+ke gian	kẻ gian
+ke tiep	kế tiếp
+ket ban	kết bạn
+ket hop	kết hợp
+ket qua	kết quả
+ky dieu	kỳ diệu
+ky niem	kỷ niệm
+ky cang	kỹ càng
+ky nang	kỹ năng
+la lang	la làng
+liet ke	liệt kê
+lo lang	lo lắng
+lo ngai	lo ngại
+loai bo	loại bỏ
+loan xa	loạn xạ
+lam ban	làm bạn
+lam chi	làm chi
+lam gia	làm giá
+lam kho	làm khó
+lam ngo	làm ngơ
+lam nen	làm nên
+lam sao	làm sao
+lam tro	làm trò
+lam toi	làm tới
+lam dau	làm đầu
+lau dai	lâu dài
+lau lac	lâu lắc
+lau nay	lâu nay
+len mat	lên mặt
+loi keo	lôi kéo
+lom com	lôm côm
+luc lac	lúc lắc
+luc nao	lúc nào
+lan tan	lăn tăn
+luu tru	lưu trữ
+la lung	lạ lùng
+lai mat	lại mặt
+lai qua	lại quả
+lap tuc	lập tức
+lap rap	lắp ráp
+lap dat	lắp đặt
+lap lai	lặp lại
+lat vat	lặt vặt
+le phep	lễ phép
+loi lom	lồi lõm
+lo hong	lỗ hổng
+loi huy	lỗi hủy
+loi lam	lỗi lầm
+lon xon	lộn xộn
+lop hoc	lớp học
+loi noi	lời nói
+loi khi	lợi khí
+loi ich	lợi ích
+lon con	lợn cợn
+lua bip	lừa bịp
+lua doi	lừa dối
+lua gat	lừa gạt
+lua loc	lừa lọc
+mai mot	mai mốt
+may man	may mắn
+may rui	may rủi
+mieu ta	miêu tả
+mien la	miễn là
+mua ban	mua bán
+mua nua	mua nửa
+mau sac	màu sắc
+may bay	máy bay
+may chu	máy chủ
+may may	máy may
+may moc	máy móc
+may xay	máy xay
+may anh	máy ảnh
+ma tien	mã tiền
+ma vach	mã vạch
+mon moi	mòn mỏi
+moc tui	móc túi
+mo hinh	mô hình
+mua roi	múa rối
+mi pham	mĩ phẩm
+mui ten	mũi tên
+manh me	mạnh mẽ
+mat day	mất dạy
+mat hut	mất hút
+mat hon	mất hồn
+mat mat	mất mặt
+mat net	mất nết
+mat toi	mất toi
+mat tam	mất tăm
+mat mui	mặt mũi
+me kiep	mẹ kiếp
+mem mai	mềm mại
+moi mon	mỏi mòn
+moi mat	mỏi mắt
+moi toi	mỗi tội
+mot cai	một cái
+mot hai	một hai
+mot the	một thể
+mot vai	một vài
+mot doi	một đôi
+moi huy	mới hủy
+moi roi	mới rồi
+moi day	mới đây
+moi dau	mới đầu
+mo hang	mở hàng
+mo rong	mở rộng
+muc huy	mục hủy
+my pham	mỹ phẩm
+nghe an	nghệ an
+nghe si	nghệ sĩ
+ngu dot	ngu dốt
+nguy co	nguy cơ
+ngon tu	ngôn từ
+ngo dau	ngờ đâu
+nho nho	nho nhỏ
+nhu cau	nhu cầu
+nha may	nhà máy
+nha que	nhà quê
+nha van	nhà văn
+nhu the	như thể
+nhu vay	như vầy
+nhat la	nhất là
+nhat ky	nhật ký
+nho nhe	nhỏ nhẹ
+nho xiu	nhỏ xíu
+niem no	niềm nở
+nao ngo	nào ngờ
+noi doi	nói dối
+noi huy	nói hủy
+noi lao	nói láo
+noi xau	nói xấu
+nut huy	nút hủy
+nam bay	năm bảy
+nam dam	nắm đấm
+nang ne	nặng nề
+neu nhu	nếu như
+noi bat	nổi bật
+noi tro	nội trợ
+noi dia	nội địa
+nua dem	nửa đêm
+ong mat	ong mật
+pha gia	phá giá
+pha san	phá sản
+pham vi	phạm vi
+phan no	phẫn nộ
+phu phi	phụ phí
+qua lai	qua lại
+qua mat	qua mặt
+quan he	quan hệ
+quy doi	quy đổi
+qua ban	quá bán
+qua kho	quá khổ
+qua lam	quá lắm
+qua suc	quá sức
+qua the	quá thể
+qua tai	quá tải
+qua toi	quá tội
+qua bao	quả báo
+qua dat	quả đất
+quan li	quản lí
+quan ly	quản lý
+quan ao	quần áo
+quoc te	quốc tế
+ra soat	rà soát
+ro rang	rõ ràng
+ruom ra	rườm rà
+rac roi	rắc rối
+re tien	rẻ tiền
+roi ram	rối rắm
+roi day	rồi đây
+sa thai	sa thải
+sai lam	sai lầm
+sai sot	sai sót
+sau het	sau hết
+sinh to	sinh tố
+sieu te	siêu tệ
+so sanh	so sánh
+suon se	suôn sẻ
+sai gon	sài gòn
+sach vo	sách vở
+sao sau	sáo sậu
+sat sao	sát sao
+sau sac	sâu sắc
+suc vat	súc vật
+suu tam	sưu tầm
+suu tap	sưu tập
+sach se	sạch sẽ
+sap mat	sấp mặt
+sap xep	sắp xếp
+sua doi	sửa đổi
+su kien	sự kiện
+su that	sự thật
+su viec	sự việc
+tai nan	tai nạn
+tay cam	tay cầm
+tay mat	tay mặt
+thay vi	thay vì
+thi hai	thi hài
+thi huy	thi hủy
+thu hut	thu hút
+thai do	thái độ
+than ai	thân ái
+thi gio	thì giờ
+tho tuc	thô tục
+thu toi	thú tội
+thu muc	thư mục
+than ki	thần kì
+tham my	thẩm mỹ
+tham te	thậm tệ
+that ra	thật ra
+the nho	thẻ nhớ
+thi phi	thị phi
+thoi ky	thời kỳ
+thu tuc	thủ tục
+thu bay	thứ bảy
+thuc an	thức ăn
+thuc ra	thực ra
+thuc su	thực sự
+tim tim	tim tím
+tin tac	tin tặc
+tin tuc	tin tức
+tin yeu	tin yêu
+tieu de	tiêu đề
+tien bo	tiến bộ
+tiet lo	tiết lộ
+tien le	tiền lẻ
+to dung	to đùng
+toan bo	toàn bộ
+tra cuu	tra cứu
+tri tre	trì trệ
+tro dua	trò đùa
+tra gia	trả giá
+tra gop	trả góp
+tra loi	trả lời
+tre con	trẻ con
+tri gia	trị giá
+tro len	trở lên
+tro lai	trở lại
+tro nen	trở nên
+tro gia	trợ giá
+tuan le	tuần lễ
+tai nao	tài nào
+tai san	tài sản
+tai tro	tài trợ
+tam tam	tàm tạm
+tac gia	tác giả
+tich su	tích sự
+tin chi	tín chỉ
+tom lai	tóm lại
+tong do	tông đơ
+tum lum	tùm lum
+tam hoi	tăm hơi
+tu cach	tư cách
+tai cho	tại chỗ
+tai sao	tại sao
+tam bay	tầm bậy
+tan tat	tần tật
+tan mat	tận mắt
+tan tay	tận tay
+tan tam	tận tâm
+tap hop	tập hợp
+tap tin	tập tin
+tinh le	tỉnh lẻ
+ton kem	tốn kém
+tot doi	tốt đôi
+tot dep	tốt đẹp
+ton kho	tồn kho
+ton tai	tồn tại
+to chuc	tổ chức
+tong so	tổng số
+toi lui	tới lui
+tu lanh	tủ lạnh
+tu choi	từ chối
+tu khoa	từ khoá
+tu dung	tự dưng
+tu tien	tự tiện
+tu dong	tự động
+va cham	va chạm
+vi pham	vi phạm
+vi tinh	vi tính
+vui ghe	vui ghê
+vong vo	vòng vo
+vo cung	vô cùng
+vo dung	vô dụng
+vo hinh	vô hình
+vo thuc	vô thức
+vo tinh	vô tình
+vo dich	vô địch
+vung xa	vùng xa
+van ban	văn bản
+van don	vận đơn
+ve sinh	vệ sinh
+voi lai	với lại
+vu viec	vụ việc
+vua moi	vừa mới
+vua qua	vừa qua
+vua roi	vừa rồi
+xem lai	xem lại
+xem mat	xem mặt
+xem xet	xem xét
+xin loi	xin lỗi
+xuat xu	xuất xứ
+xet lai	xét lại
+xoa bai	xóa bài
+xoa mat	xóa mất
+xoa tai	xóa tải
+xoa don	xóa đơn
+xao tra	xảo trá
+xu dung	xử dụng
+xu phat	xử phạt
+yeu cau	yêu cầu
+yeu men	yêu mến
+yeu quy	yêu quý
+yeu kem	yếu kém
+ao quan	áo quần
+ap dung	áp dụng
+am tham	âm thầm
+ep buoc	ép buộc
+it nhat	ít nhất
+oi thoi	ôi thôi
+an chan	ăn chặn
+an cuop	ăn cướp
+an gian	ăn gian
+an quyt	ăn quỵt
+an thua	ăn thua
+an tien	ăn tiền
+an trom	ăn trộm
+an uong	ăn uống
+da dung	đa dụng
+da phan	đa phần
+dau kho	đau khổ
+dau dau	đau đầu
+dien ro	điên rồ
+dieu le	điều lệ
+dien tu	điện tử
+dom dom	đom đóm
+dan ong	đàn ông
+dao tao	đào tạo
+dang ke	đáng kể
+dang ly	đáng lý
+dang le	đáng lẽ
+dang ra	đáng ra
+danh do	đánh đố
+dap ung	đáp ứng
+dau day	đâu đây
+da danh	đã đành
+den pin	đèn pin
+doi hoi	đòi hỏi
+dun day	đùn đẩy
+dung ra	đúng ra
+dang ki	đăng kí
+don gia	đơn giá
+don huy	đơn hủy
+dai gia	đại gia
+dai tra	đại trà
+dao duc	đạo đức
+dam bao	đảm bảo
+dau lau	đầu lâu
+dau vao	đầu vào
+dat gia	đắt giá
+dac sac	đặc sắc
+dat coc	đặt cọc
+de nghi	đề nghị
+de xuat	đề xuất
+de danh	để dành
+de phan	để phần
+deu gia	đểu giả
+dia cau	địa cầu
+dinh vi	định vị
+doi thu	đối thủ
+doi tac	đối tác
+doi voi	đối với
+do choi	đồ chơi
+do dung	đồ dùng
+do hang	đồ hàng
+dong bo	đồng bộ
+do thua	đổ thừa
+doi moi	đổi mới
+doc dao	độc đáo
+doi ngu	đội ngũ
+dong co	động cơ
+doi nao	đời nào
+doi cho	đợi chờ
+uu tien	ưu tiên
+uu viet	ưu việt
+uu diem	ưu điểm
+on dinh	ổn định
+bac kan	bắc kạn
+ben tre	bến tre
+can tho	cần thơ
+da nang	đà nẵng
+gia lai	gia lai
+ha tinh	hà tĩnh
+dak lak	đắk lắk
+kon tum	kon tum
+long an	long an
+lao cai	lào cai
+phu tho	phú thọ
+phu yen	phú yên
+yen bai	yên bái
+hay day	hay đấy
+con cac	con cặc
+ai lai	ai lại
+ai ngo	ai ngờ
+ai doi	ai đời
+an tam	an tâm
+ba bon	ba bốn
+bao bi	bao bì
+ba con	bà con
+ba gia	bà già
+ban la	bàn là
+ban le	bán lẻ
+be boi	bê bối
+bi mat	bí mật
+bo tay	bó tay
+bup be	búp bê
+buu ta	bưu tá
+ban be	bạn bè
+ban do	bản đồ
+bao ho	bảo hộ
+bao ve	bảo vệ
+bat an	bất an
+bat cu	bất cứ
+bat ki	bất kì
+bat ke	bất kể
+bat ky	bất kỳ
+bat on	bất ổn
+bay ba	bậy bạ
+bat be	bắt bẻ
+bat ep	bắt ép
+bo qua	bỏ qua
+bo cuc	bố cục
+bo thi	bố thí
+bo tri	bố trí
+bo ich	bổ ích
+bo may	bộ máy
+bo mat	bộ mặt
+bo nho	bộ nhớ
+boi vi	bởi vì
+cau co	cau có
+cay cu	cay cú
+cha me	cha mẹ
+cho du	cho dù
+cha ba	chà bá
+che do	chế độ
+chi so	chỉ số
+chi em	chị em
+chu de	chủ đề
+chu so	chữ số
+con me	con mẹ
+con so	con số
+ca mau	cà mau
+ca phe	cà phê
+ca moi	cá mòi
+ca map	cá mập
+cay so	cây số
+co gia	có giá
+co han	có hạn
+co hoc	có học
+co mat	có mặt
+co ich	có ích
+co hon	cô hồn
+con do	côn đồ
+cu meo	cú mèo
+can cu	căn cứ
+co ban	cơ bản
+co che	cơ chế
+co hoi	cơ hội
+cau ki	cầu kì
+coi mo	cởi mở
+cu the	cụ thể
+cu cai	củ cải
+cu lon	củ lồn
+cua so	cửa sổ
+cuc ki	cực kì
+cuc ky	cực kỳ
+du con	du côn
+da man	dã man
+de dat	dè dặt
+du sao	dù sao
+dau ca	dầu cá
+de coi	dễ coi
+do hoi	dở hơi
+du doi	dữ dội
+em gai	em gái
+ghi no	ghi nợ
+ghi am	ghi âm
+gia ca	giá cả
+gia su	giả sử
+gia vo	giả vờ
+gan bo	gắn bó
+hay la	hay là
+hoa ra	hoá ra
+ha noi	hà nội
+hu cau	hư cấu
+hu hao	hư hao
+hu hai	hư hại
+hat de	hạt dẻ
+hoi am	hồi âm
+ho tro	hỗ trợ
+hop li	hợp lí
+hop le	hợp lệ
+kho de	khó dễ
+keu ca	kêu ca
+keu la	kêu la
+ki cuc	kì cục
+ky cuc	kỳ cục
+la ban	la bàn
+la het	la hét
+lam lo	làm lơ
+lam ma	làm ma
+lam vi	làm vì
+lam on	làm ơn
+la cai	lá cải
+lau la	lâu la
+len an	lên án
+lap lo	lập lờ
+lap di	lặp đi
+loi le	lời lẽ
+ma tuy	ma túy
+mau le	mau lẹ
+mua le	mua lẻ
+mua do	mua đồ
+mau da	màu da
+mau me	màu mè
+mat me	mát mẻ
+may in	máy in
+meo mo	méo mó
+mua da	mưa đá
+mau ma	mẫu mã
+map mo	mập mờ
+mat ma	mật mã
+mac ca	mặc cả
+mac du	mặc dù
+mac ke	mặc kệ
+mat na	mặt nạ
+mo hoi	mồ hôi
+mot so	một số
+mot ti	một tí
+mot it	một ít
+moi la	mới lạ
+moi me	mới mẻ
+mo cua	mở cửa
+muc do	mức độ
+nhu ai	như ai
+nho le	nhỏ lẻ
+nao la	nào là
+noi gi	nói gì
+nan ni	năn nỉ
+nat no	nạt nộ
+nay no	nảy nở
+no luc	nỗ lực
+noi bo	nội bộ
+nua la	nữa là
+phi ly	phi lý
+phu nu	phụ nữ
+quy mo	quy mô
+qua co	quá cố
+qua xa	quá xá
+quy vi	quý vị
+ra hon	ra hồn
+ra tro	ra trò
+ra doi	ra đời
+rom ra	rôm rả
+ro ret	rõ rệt
+ram ro	rầm rộ
+rui ro	rủi ro
+sai so	sai số
+so sai	sơ sài
+so mot	số một
+so huu	sở hữu
+so hai	sợ hãi
+sup do	sụp đổ
+tan vo	tan vỡ
+thi cu	thi cử
+tha la	thà là
+thi du	thí dụ
+tho lo	thô lỗ
+the le	thể lệ
+thi xa	thị xã
+thu tu	thứ tự
+to lon	to lớn
+tro he	trò hề
+tre em	trẻ em
+tro ve	trở về
+tro ly	trợ lý
+tru so	trụ sở
+tai xe	tài xế
+tam li	tâm lí
+tam ly	tâm lý
+ti xiu	tí xíu
+tin do	tín đồ
+tu duy	tư duy
+tu van	tư vấn
+tat ca	tất cả
+te nhi	tế nhị
+to cao	tố cáo
+toc do	tốc độ
+toi va	tội vạ
+tuc la	tức là
+tu ngu	từ ngữ
+tu hao	tự hào
+tu tin	tự tin
+vui ve	vui vẻ
+vai ba	vài ba
+vi sao	vì sao
+vo cuc	vô cực
+vo hoc	vô học
+vo lai	vô lại
+vo tam	vô tâm
+vo ich	vô ích
+vu khi	vũ khí
+va lai	vả lại
+vat va	vất vả
+vi tri	vị trí
+vo tay	vỗ tay
+xa xoi	xa xôi
+xe hoi	xe hơi
+xe may	xe máy
+xe dap	xe đạp
+xa hoi	xã hội
+xoa me	xóa mẹ
+xoa tk	xóa tk
+xoa di	xóa đi
+xau ho	xấu hổ
+yeu to	yếu tố
+am anh	ám ảnh
+ao dai	áo dài
+ao mua	áo mưa
+ap dat	áp đặt
+an can	ân cần
+ong ba	ông bà
+an bot	ăn bớt
+an cap	ăn cắp
+an loi	ăn lời
+an noi	ăn nói
+an xin	ăn xin
+an dut	ăn đứt
+da cap	đa cấp
+dam me	đam mê
+de doa	đe dọa
+den si	đen sì
+di huy	đi hủy
+di lai	đi lại
+di nua	đi nữa
+di doi	đi đôi
+dap an	đáp án
+dam ra	đâm ra
+da doi	đã đời
+don tu	đơn từ
+don vi	đơn vị
+dai ly	đại lý
+dau tu	đầu tư
+day du	đầy đủ
+dan do	đắn đo
+dat do	đắt đỏ
+dep de	đẹp đẽ
+de cap	đề cập
+den bu	đền bù
+doi xu	đối xử
+do hoa	đồ họa
+do vat	đồ vật
+do dac	đồ đạc
+uu tin	ưu tín
+an huy	ấn hủy
+uc che	ức chế
+ung xu	ứng xử
+ha nam	hà nam
+son la	sơn la
+thu vị	thú vị
+an ui	an ủi
+ba la	ba lá
+ba lo	ba lô
+ca si	ca sĩ
+co de	có dễ
+co ly	có lý
+co le	có lẽ
+co an	có ăn
+co so	cơ sở
+cu xu	cư xử
+do du	do dự
+do te	dở tệ
+du do	dụ dỗ
+go bo	gò bó
+ho so	hồ sơ
+im im	im ỉm
+ki la	kì lạ
+ki tu	kí tự
+ky tu	ký tự
+ke ca	kể cả
+ke ra	kể ra
+ky la	kỳ lạ
+lo so	lo sợ
+la la	là lạ
+li xi	lì xì
+li do	lí do
+ly do	lý do
+lo la	lơ là
+le te	lẻ tẻ
+le ra	lẽ ra
+le me	lề mề
+ma so	mã số
+mo ta	mô tả
+mo ho	mơ hồ
+mo am	mờ ám
+ra gi	ra gì
+ro ri	rò rỉ
+so ho	sơ hở
+so mi	sơ mi
+so du	số dư
+so it	số ít
+su co	sự cố
+ti le	tỉ lệ
+ti mi	tỉ mỉ
+tu bo	từ bỏ
+tu te	tử tế
+tu do	tự do
+tu ve	tự vệ
+ty le	tỷ lệ
+vi du	ví dụ
+vo co	vô cớ
+vo ke	vô kể
+vo li	vô lí
+vo ly	vô lý
+vo le	vô lễ
+vo so	vô số
+vo tu	vô tư
+xu li	xử lí
+xu ly	xử lý
+em ai	êm ái
+it ra	ít ra
+it do	ít đồ
+it oi	ít ỏi
+da so	đa số
+de cu	đề cử
+uu ai	ưu ái
+am uc	ấm ức
+au ta	ẩu tả
+on ao	ồn ào
+on ap	ổn áp
+tots	tốt
+ae	anh em
+r	rồi
+ad	quản trị viên
+h	giờ
+w	qu
+j	gì
+cg	cũng
+đươ c	được
+đc được
+dzựt	giật
+nx	nữa
+oce	ổn
+ko	không
+ngập tràng	ngập tràn
+sp	sản phẩm
+cty	công ty
+làm ân	làm ăn
+làm an	làm ăn
+hi vọng	hy vọng
+nx	nữa
+mk	mình
+oke	ổn
+raf	rất
+fhich	thích
+thich	thích
+sức sắc	xuất sắc
+tuik	tôi
+tui	tôi
+z	vậy
+xử l	xử lí
+tôt	tốt
+quang cào	quảng cáo
+sđt	số điện thoại
+qc	quảng cáo
+avt	ảnh đại diện
+đain	đại
